@@ -8,7 +8,8 @@
       "url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN",
       "info": "Full text of the California Penal Code. Public site, works anywhere.",
       "category": "legal",
-      "tags": ["penal code", "statute", "law"]
+      "tags": ["penal code", "statute", "law"],
+      "network_restricted": false
     },
     {
       "id": "ca-courts",
@@ -16,7 +17,8 @@
       "url": "https://www.courts.ca.gov/forms.htm",
       "info": "Statewide Judicial Council forms and court information.",
       "category": "legal",
-      "tags": ["courts", "forms", "judicial"]
+      "tags": ["courts", "forms", "judicial"],
+      "network_restricted": false
     },
     {
       "id": "ca-dmv",
@@ -24,7 +26,8 @@
       "url": "https://www.dmv.ca.gov/",
       "info": "Public DMV site. For CLETS/registration lookups use the agency terminal.",
       "category": "records",
-      "tags": ["dmv", "vehicle", "registration"]
+      "tags": ["dmv", "vehicle", "registration"],
+      "network_restricted": false
     },
     {
       "id": "namus",
@@ -32,7 +35,8 @@
       "url": "https://www.namus.gov/",
       "info": "National database for missing, unidentified, and unclaimed persons.",
       "category": "records",
-      "tags": ["missing persons", "namus", "national"]
+      "tags": ["missing persons", "namus", "national"],
+      "network_restricted": false
     },
     {
       "id": "ca-post",
@@ -40,7 +44,8 @@
       "url": "https://post.ca.gov/",
       "info": "Commission on Peace Officer Standards and Training — courses and certification.",
       "category": "training",
-      "tags": ["post", "training", "certification"]
+      "tags": ["post", "training", "certification"],
+      "network_restricted": false
     },
     {
       "id": "axon-evidence",
@@ -48,7 +53,8 @@
       "url": "https://sbcsd.evidence.com/",
       "info": "Axon Evidence (formerly known as Evidence.com) is a secure, cloud-based digital evidence management system (DEMS) developed by Axon.",
       "category": "agency",
-      "tags": ["evidence", "axon"]
+      "tags": ["evidence", "axon"],
+      "network_restricted": false
     },
     {
       "id": "jimsnet-internal",
@@ -56,7 +62,8 @@
       "url": "https://jimsnet-dept.shr.sbcounty.gov/",
       "info": "San Bernardino County Jail Information Management System - DEPARTMENT INTRANET REQUIRED",
       "category": "agency",
-      "tags": ["jail", "inmate"]
+      "tags": ["jail", "inmate"],
+      "network_restricted": true
     },
     {
       "id": "emacs",
@@ -64,7 +71,8 @@
       "url": "https://emacsapp.sbcounty.gov/",
       "info": "EMACS (Employee Management and Compensation System) is an automated human resources, benefits, and payroll system used primarily by the County of San Bernardino in California.",
       "category": "agency",
-      "tags": ["emacs", "time", "timecard", "payroll"]
+      "tags": ["emacs", "time", "timecard", "payroll"],
+      "network_restricted": false
     },
     {
       "id": "cal-photo",
@@ -72,7 +80,8 @@
       "url": "https://calphoto.ext.doj.ca.gov/CalPhoto/",
       "info": "California DOJ’s CalPhoto is a statewide law enforcement database that provides police officers and investigators with instant, mobile access to millions of driver's license photos and state-issued identification images.",
       "category": "records",
-      "tags": ["dmv", "license", "dl", "driver"]
+      "tags": ["dmv", "license", "dl", "driver"],
+      "network_restricted": true
     },
     {
       "id": "sb-ewarrants",
@@ -80,7 +89,8 @@
       "url": "https://gc-rewapp-prod.azurewebsites.us/ewarrants/",
       "info": "San Bernardino County's Remote Electronic Warrants (eWarrants) is a digital system that allows law enforcement officers to apply for, and judges to review and sign, search and arrest warrants from remote locations.",
       "category": "legal",
-      "tags": ["warrant"]
+      "tags": ["warrant"],
+      "network_restricted": false
     },
     {
       "id": "riverside-emagistrate",
@@ -88,7 +98,8 @@
       "url": "https://emagistrate.riverside.courts.ca.gov/Home/Welcome",
       "info": "Riverside County eMagistrate is a digital application used by the Superior Court of California, County of Riverside, that allows authorized law enforcement agencies and the District Attorney's office to submit time-sensitive legal documents electronically.",
       "category": "legal",
-      "tags": ["warrant"]
+      "tags": ["warrant"],
+      "network_restricted": false
     },
     {
       "id": "sw-ling",
@@ -96,7 +107,8 @@
       "url": "https://www.linxca.us/Linx/login.jsp",
       "info": "LInX (Law Enforcement Information Exchange) is a massive, federally funded criminal database managed by the Naval Criminal Investigative Service (NCIS). It allows thousands of local, state, and federal agencies nationwide to securely share billions of crime records and investigative leads.",
       "category": "records",
-      "tags": ["linx"]
+      "tags": ["linx"],
+      "network_restricted": false
     }
   ]
 }
