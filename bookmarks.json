@@ -3,68 +3,12 @@
   "updated": "2026-05-27",
   "bookmarks": [
     {
-      "id": "ca-penal-code",
-      "title": "California Penal Code (Legislative Info)",
-      "url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN",
+      "id": "axon-evidence",
+      "title": "Axon Evidence",
+      "url": "http://sbcsd.evidence.com/",
       "info": "Full text of the California Penal Code. Public site, works anywhere.",
       "category": "legal",
       "tags": ["penal code", "statute", "law"]
-    },
-    {
-      "id": "ca-courts",
-      "title": "California Courts — Self-Help & Forms",
-      "url": "https://www.courts.ca.gov/forms.htm",
-      "info": "Statewide Judicial Council forms and court information.",
-      "category": "legal",
-      "tags": ["courts", "forms", "judicial"]
-    },
-    {
-      "id": "ca-dmv",
-      "title": "California DMV",
-      "url": "https://www.dmv.ca.gov/",
-      "info": "Public DMV site. For CLETS/registration lookups use the agency terminal.",
-      "category": "records",
-      "tags": ["dmv", "vehicle", "registration"]
-    },
-    {
-      "id": "namus",
-      "title": "NamUs — Missing & Unidentified Persons",
-      "url": "https://www.namus.gov/",
-      "info": "National database for missing, unidentified, and unclaimed persons.",
-      "category": "records",
-      "tags": ["missing persons", "namus", "national"]
-    },
-    {
-      "id": "ca-post",
-      "title": "California POST",
-      "url": "https://post.ca.gov/",
-      "info": "Commission on Peace Officer Standards and Training — courses and certification.",
-      "category": "training",
-      "tags": ["post", "training", "certification"]
-    },
-    {
-      "id": "google-maps",
-      "title": "Google Maps",
-      "url": "https://www.google.com/maps",
-      "info": "General mapping and street view.",
-      "category": "mapping",
-      "tags": ["maps", "location", "gis"]
-    },
-    {
-      "id": "sbcounty-gis",
-      "title": "San Bernardino County GIS / Parcel Maps",
-      "url": "https://www.sbcounty.gov/",
-      "info": "County GIS and parcel lookup. Some layers require the county network.",
-      "category": "mapping",
-      "tags": ["gis", "parcel", "county"]
-    },
-    {
-      "id": "agency-portal-example",
-      "title": "Agency Internal Portal (example)",
-      "url": "https://intranet.example.gov/",
-      "info": "ONLY works on the Sheriff's network. Replace this entry with your real internal portal URL in bookmarks.json.",
-      "category": "agency",
-      "tags": ["internal", "portal", "intranet"]
     }
   ]
 }
