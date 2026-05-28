@@ -41,6 +41,14 @@
       "info": "Commission on Peace Officer Standards and Training — courses and certification.",
       "category": "training",
       "tags": ["post", "training", "certification"]
+    },
+    {
+      "id": "axon-evidence",
+      "title": "Axon Evidence",
+      "url": "https://sbcsd.evidence.com/",
+      "info": "Commission on Peace Officer Standards and Training — courses and certification.",
+      "category": "agency",
+      "tags": ["evidence", "axon"]
     }
   ]
 }
