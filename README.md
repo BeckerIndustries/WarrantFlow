@@ -6,6 +6,23 @@ downloads and caches:
 - **`catalog.json`** — reusable clauses for the **Language Library** (places,
   items, affiant expertise, probable cause).
 - **`bookmarks.json`** — shared web links for the **Bookmarks** page.
+- **`home.json`** — supporter shoutouts, news/announcements, and the
+  latest-version info for the **Home** dashboard.
+
+### home.json — update banner fields
+
+```json
+{
+  "latest_app_version": "1.0.1",   // when newer than the running app, a red
+                                    //   "Update Available" banner shows
+  "update_message": "Contact Cody Becker for the latest software.",  // optional
+  "download_url": "https://example.com/WarrantFlow.zip"              // optional; shows a Download button
+}
+```
+
+Bump `latest_app_version` whenever you ship a new build. Officers on an older
+version see the banner the next time they're online (after the ~5-min CDN
+delay). Leave `download_url` empty to show the message with no button.
 
 Officers can also add their own local bookmarks in the app; those stay on
 their device and are not part of this repo.
@@ -23,13 +40,19 @@ their device and are not part of this repo.
       "url": "https://example.gov/",
       "info": "Optional notes, e.g. 'Only works on the Sheriff's network'.",
       "category": "legal",      // records | legal | mapping | agency | training | other
-      "tags": ["search", "keywords"]
+      "tags": ["search", "keywords"],
+      "network_restricted": false  // optional; true shows a red "NETWORK RESTRICTED" badge
     }
   ]
 }
 ```
 
 Only `http://` and `https://` URLs will open from the app.
+
+`network_restricted` is optional and defaults to `false`. Set it to `true`
+for links that only resolve on the agency network (intranet, CLETS, etc.) —
+the app shows a red **NETWORK RESTRICTED** badge so officers know it won't
+work from a public connection.
 
 ---
 
