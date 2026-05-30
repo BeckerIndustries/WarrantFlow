@@ -33,6 +33,38 @@ your edits are preserved on every future launch.
 In-app **About** and **View Disclaimer** dialogs cover the day-to-day
 guidance you'd want. The full docs and updates live here on GitHub.
 
+### "Windows protected your PC" warning on first launch?
+
+The first time you double-click `WarrantFlow.exe`, Windows may show a
+blue **Microsoft Defender SmartScreen** dialog that says *"Windows
+protected your PC — Microsoft Defender SmartScreen prevented an
+unrecognized app from starting"*.
+
+This is **expected and not a sign of anything wrong with WarrantFlow.**
+SmartScreen flags any Windows program it hasn't seen many times before,
+regardless of what's inside. To get past it:
+
+1. Click **More info** (small text under the message).
+2. Click the **Run anyway** button that appears.
+
+Windows remembers your choice for that file, so you'll only see this on
+the very first launch. If you ever download a newer version, you'll see
+it once more on that new copy too.
+
+**Alternative — unblock the file before running it:**
+
+1. Right-click `WarrantFlow.exe` → **Properties**.
+2. At the bottom of the General tab, check the **Unblock** box next to
+   "This file came from another computer…".
+3. Click **OK** and double-click the .exe normally.
+
+Both methods are equivalent — pick whichever is easier in your setup.
+
+> Some agency IT environments block "Run anyway" by group policy. If you
+> see the SmartScreen dialog with no Run anyway option, ask your IT team
+> to whitelist `WarrantFlow.exe`, or to allow you to run the file from
+> your USB stick / approved storage location.
+
 ## Features
 
 - **Search warrants** — guided form covering CA Penal Code 1524 statutory
