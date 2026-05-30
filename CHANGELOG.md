@@ -7,11 +7,16 @@ The latest .exe is always at the top of the
 [Releases page](https://github.com/BeckerIndustries/WarrantFlow/releases).
 
 ## [Unreleased]
-- Bundled `search_warrant.docx` and `warrant_return.docx` inside the .exe.
-  First launch in an empty folder now writes both templates to disk
+
+## [1.0.1] — 2026-05-30
+
+### Changed
+- **Truly self-contained .exe.** Bundled `search_warrant.docx`,
+  `warrant_return.docx`, and the daily-use `README.txt` inside the .exe.
+  First launch in an empty folder now writes everything to disk
   automatically — no more "drop the templates folder next to the exe"
-  setup step. Your edited copies are never overwritten on subsequent
-  launches.
+  setup step. Customized templates and READMEs are never overwritten on
+  subsequent launches.
 
 ## [1.0.0] — 2026-05-30
 
@@ -67,5 +72,6 @@ First public release.
 - As-is disclaimer accepted on first launch and available any time
   under About → View Disclaimer.
 
-[Unreleased]: https://github.com/BeckerIndustries/WarrantFlow/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/BeckerIndustries/WarrantFlow/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.1
 [1.0.0]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.0
