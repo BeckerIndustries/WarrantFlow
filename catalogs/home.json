@@ -1,8 +1,8 @@
 {
   "version": 1,
   "updated": "2026-05-30",
-  "latest_app_version": "1.0.2",
-  "update_message": "v1.0.2 is out — Warrant Number moved to returns only, daily logs with 90-day retention, and a cleaner production folder layout.",
+  "latest_app_version": "1.0.3",
+  "update_message": "v1.0.3 is out — internal cleanup; catalog files relocated on the repo. No user-facing changes.",
   "download_url": "https://github.com/BeckerIndustries/WarrantFlow/releases/latest",
   "supporters": [
     "Be the first — buy me a coffee!"

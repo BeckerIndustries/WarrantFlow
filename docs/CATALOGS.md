@@ -1,6 +1,7 @@
 # Catalog Reference
 
-This document describes the four JSON catalogs hosted at the root of the
+This document describes the four JSON catalogs in the
+[`catalogs/`](../catalogs/) folder of the
 [BeckerIndustries/WarrantFlow](https://github.com/BeckerIndustries/WarrantFlow)
 repo. The WarrantFlow desktop app fetches each one on demand and caches
 the result locally so the app keeps working without an internet
@@ -8,10 +9,10 @@ connection.
 
 | File | What it powers |
 |---|---|
-| `catalog.json` | Language Library (places, items, expertise paragraphs, probable-cause fragments) |
-| `bookmarks.json` | Bookmarks page (court forms, DMV lookups, agency intranet links) |
-| `california_statutes.json` | "Find Code" picker on the warrant editor |
-| `home.json` | Home-dashboard banner, supporter shoutouts, update notice |
+| `catalogs/catalog.json` | Language Library (places, items, expertise paragraphs, probable-cause fragments) |
+| `catalogs/bookmarks.json` | Bookmarks page (court forms, DMV lookups, agency intranet links) |
+| `catalogs/california_statutes.json` | "Find Code" picker on the warrant editor |
+| `catalogs/home.json` | Home-dashboard banner, supporter shoutouts, update notice |
 
 All four catalogs are **public and unauthenticated** — don't put anything
 sensitive or agency-confidential in them. These are generic, reusable
@@ -171,10 +172,10 @@ older versions see the banner the next time they're online (after the
 Quick sanity check the whole repo:
 
 ```sh
-python -m json.tool catalog.json > /dev/null
-python -m json.tool bookmarks.json > /dev/null
-python -m json.tool california_statutes.json > /dev/null
-python -m json.tool home.json > /dev/null
+python -m json.tool catalogs/catalog.json > /dev/null
+python -m json.tool catalogs/bookmarks.json > /dev/null
+python -m json.tool catalogs/california_statutes.json > /dev/null
+python -m json.tool catalogs/home.json > /dev/null
 ```
 
 If all four exit silently, the JSON is well-formed.

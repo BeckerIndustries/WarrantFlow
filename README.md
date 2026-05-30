@@ -118,12 +118,13 @@ development, the donation link lives in the app under About → Buy Me a Coffee.
 
 ## For contributors
 
-This repository also hosts the public catalogs the app downloads:
+This repository also hosts the public catalogs the app downloads, all
+under [`catalogs/`](catalogs/):
 
-- `catalog.json` — language-library snippets
-- `bookmarks.json` — shared bookmarks
-- `california_statutes.json` — California statute catalog
-- `home.json` — home-dashboard banner + supporter shoutouts
+- `catalogs/catalog.json` — language-library snippets
+- `catalogs/bookmarks.json` — shared bookmarks
+- `catalogs/california_statutes.json` — California statute catalog
+- `catalogs/home.json` — home-dashboard banner + supporter shoutouts
 
 See [`docs/CATALOGS.md`](docs/CATALOGS.md) for schemas and the workflow
 for adding or updating entries.

@@ -8,6 +8,15 @@ The latest .exe is always at the top of the
 
 ## [Unreleased]
 
+## [1.0.3] — 2026-05-30
+
+### Changed
+- **Catalog files moved into `catalogs/` folder** in the public repo
+  so the repo root reads as just README, LICENSE, CHANGELOG, plus the
+  catalogs and docs folders. The four default URLs (snippets,
+  bookmarks, statutes, home) baked into the .exe were updated to
+  match. No user-visible behavior change beyond a cleaner repo layout.
+
 ## [1.0.2] — 2026-05-30
 
 ### Changed
@@ -94,7 +103,8 @@ First public release.
 - As-is disclaimer accepted on first launch and available any time
   under About → View Disclaimer.
 
-[Unreleased]: https://github.com/BeckerIndustries/WarrantFlow/compare/v1.0.2...HEAD
+[Unreleased]: https://github.com/BeckerIndustries/WarrantFlow/compare/v1.0.3...HEAD
+[1.0.3]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.3
 [1.0.2]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.2
 [1.0.1]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.1
 [1.0.0]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.0
