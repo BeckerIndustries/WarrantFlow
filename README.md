@@ -1,104 +1,95 @@
-# WarrantFlow Shared Content
+# WarrantFlow
 
-This repository hosts the public catalogs the WarrantFlow desktop app
-downloads and caches:
+**A free, portable, encrypted California search warrant generator.**
 
-- **`catalog.json`** — reusable clauses for the **Language Library** (places,
-  items, affiant expertise, probable cause).
-- **`bookmarks.json`** — shared web links for the **Bookmarks** page.
-- **`home.json`** — supporter shoutouts, news/announcements, and the
-  latest-version info for the **Home** dashboard.
-
-### home.json — update banner fields
-
-```json
-{
-  "latest_app_version": "1.0.1",   // when newer than the running app, a red
-                                    //   "Update Available" banner shows
-  "update_message": "Contact Cody Becker for the latest software.",  // optional
-  "download_url": "https://example.com/WarrantFlow.zip"              // optional; shows a Download button
-}
-```
-
-Bump `latest_app_version` whenever you ship a new build. Officers on an older
-version see the banner the next time they're online (after the ~5-min CDN
-delay). Leave `download_url` empty to show the message with no button.
-
-Officers can also add their own local bookmarks in the app; those stay on
-their device and are not part of this repo.
-
-## bookmarks.json schema
-
-```json
-{
-  "version": 1,
-  "updated": "2026-05-27",
-  "bookmarks": [
-    {
-      "id": "unique-stable-id",
-      "title": "Human-readable title",
-      "url": "https://example.gov/",
-      "info": "Optional notes, e.g. 'Only works on the Sheriff's network'.",
-      "category": "legal",      // records | legal | mapping | agency | training | other
-      "tags": ["search", "keywords"],
-      "network_restricted": false  // optional; true shows a red "NETWORK RESTRICTED" badge
-    }
-  ]
-}
-```
-
-Only `http://` and `https://` URLs will open from the app.
-
-`network_restricted` is optional and defaults to `false`. Set it to `true`
-for links that only resolve on the agency network (intranet, CLETS, etc.) —
-the app shows a red **NETWORK RESTRICTED** badge so officers know it won't
-work from a public connection.
+WarrantFlow is a single-file Windows app for patrol officers in the field.
+Run it from a USB stick or any folder on the patrol-car tablet — no install,
+no admin rights, no registry writes. Fill in a warrant, generate a Word or
+PDF document, and have it ready for the magistrate.
 
 ---
 
-## The catalog
+## Download
 
-`catalog.json` is the single file the app reads. Schema:
+> **Get the latest version from the [Releases page](https://github.com/BeckerIndustries/WarrantFlow/releases/latest).**
 
-```json
-{
-  "version": 1,                 // bump when you change the catalog
-  "updated": "2026-05-27",      // yyyy-MM-dd
-  "snippets": [
-    {
-      "id": "unique-stable-id",       // never reuse; lowercase-with-hyphens
-      "category": "item",             // see categories below
-      "title": "Human-readable title",
-      "body": "The clause text. Use [BRACKETS] for fill-in blanks.",
-      "tags": ["search", "keywords"]  // used by the in-app search box
-    }
-  ]
-}
-```
+Download `WarrantFlow.exe` from the most recent release. That single file
+is the entire program (~86 MB, includes the .NET runtime — works on any
+modern Windows 10/11 machine).
 
-### Categories (must be exactly one of these)
+## Quick start
 
-| value | meaning |
-|---|---|
-| `place` | Places to be searched (residence, vehicle, account) |
-| `item` | Items / property / records to be seized |
-| `expertise` | Affiant-expertise boilerplate paragraphs |
-| `probable_cause_fragment` | Reusable probable-cause language |
-| `other` | Anything else |
+1. Make a folder anywhere — your USB stick, Desktop, Documents — and drop
+   `WarrantFlow.exe` into it.
+2. Inside that folder, create a `templates` subfolder and put your agency's
+   `search_warrant.docx` and `warrant_return.docx` files in it. (If you
+   need template starter files, contact the developer.)
+3. Double-click `WarrantFlow.exe`.
+4. Accept the disclaimer, set a master password, fill in your profile, and
+   you're ready to draft.
 
-## How to add or edit a clause
+A full README is included with the .exe — open `README.txt` next to the
+program for daily-use instructions, backup info, and troubleshooting.
 
-1. Edit `catalog.json`.
-2. Keep `id` values stable and unique. Add new IDs for new clauses; don't
-   recycle an old ID for different content.
-3. Bump the top-level `version` and update `updated`.
-4. Validate the JSON (any JSON linter, or `python -m json.tool catalog.json`).
-5. Commit and push. The app picks up changes the next time a user clicks
-   **Refresh** in Warrant Templates.
+## Features
 
-## Notes
+- **Search warrants** — guided form covering CA Penal Code 1524 statutory
+  grounds (all 22), places to search, items to seize, probable cause,
+  special court orders, and judge / date / time of issuance.
+- **California statutes picker** — built-in catalog of common Penal,
+  Vehicle, Health & Safety, BPC, and Welfare & Institutions codes. Search,
+  click, append. Catalog ships embedded so it works offline; refreshes
+  from this repo when online.
+- **Warrant returns** — focused, short form with just the fields that
+  vary per return. Executor name + rank prefilled from your profile.
+- **Encrypted vault** — every saved warrant, your profile, and any
+  captured signature live inside an AES-256-GCM file unlocked by your
+  master password. Wrong passwords don't reveal anything; three failures
+  in a session locks the app.
+- **Signature capture** — draw your signature once with the mouse or a
+  touchscreen; it embeds on every generated document.
+- **Snippet library** — reusable clauses (Google account language, Apple
+  iCloud language, cellphone language, etc.) you can paste into a warrant
+  in one click. Catalog updated through this repo.
+- **Bookmarks page** — shared links to court forms, DMV lookups, agency
+  intranets. Mark agency-network-only links so they're visible but flagged.
+- **Dark / light mode**, **auto-logout**, **encrypted backups**, **printable
+  preview**, **inline disclaimer** that meets you on every launch.
 
-- The catalog is **public and unauthenticated** — don't put anything
-  sensitive or agency-confidential here. These are generic, reusable clauses.
-- `[BRACKETED]` placeholders are deliberately left for the officer to fill in
-  after inserting the clause into a warrant.
+## Privacy and data ownership
+
+- **Everything stays on your device.** No cloud sync, no telemetry, no
+  phone-home. The only network calls are catalog refreshes from this
+  public GitHub repo, and only when triggered by you.
+- **No password recovery.** Your data is unreadable without your master
+  password. Choose one you can remember.
+- **You own the documents you generate.** The app fills templates with
+  what you type — it does not verify legal sufficiency. Review every
+  generated document before signing or filing.
+
+## Disclaimer
+
+WarrantFlow is provided **as-is, without warranty of any kind**. It does
+not verify legal sufficiency or statutory accuracy. Officers using the
+program are responsible for reviewing every document before signing or
+filing it, complying with California Penal Code section 1524, evidence
+rules, agency policy, and court procedure. The full disclaimer is shown
+on first launch and is also available in the app under About → View
+Disclaimer.
+
+## Donations
+
+WarrantFlow is **free**. If it saved you time and you want to support
+development, the donation link lives in the app under About → Buy Me a Coffee.
+
+## For contributors
+
+This repository also hosts the public catalogs the app downloads:
+
+- `catalog.json` — language-library snippets
+- `bookmarks.json` — shared bookmarks
+- `california_statutes.json` — California statute catalog
+- `home.json` — home-dashboard banner + supporter shoutouts
+
+See [`docs/CATALOGS.md`](docs/CATALOGS.md) for schemas and the workflow
+for adding or updating entries.
