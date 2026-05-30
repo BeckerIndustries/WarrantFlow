@@ -19,17 +19,20 @@ modern Windows 10/11 machine).
 
 ## Quick start
 
-1. Make a folder anywhere — your USB stick, Desktop, Documents — and drop
-   `WarrantFlow.exe` into it.
-2. Inside that folder, create a `templates` subfolder and put your agency's
-   `search_warrant.docx` and `warrant_return.docx` files in it. (If you
-   need template starter files, contact the developer.)
-3. Double-click `WarrantFlow.exe`.
-4. Accept the disclaimer, set a master password, fill in your profile, and
-   you're ready to draft.
+1. Put `WarrantFlow.exe` anywhere — USB stick, Desktop, Documents folder.
+2. Double-click it.
+3. Accept the disclaimer, set a master password, fill in your profile,
+   and start drafting.
 
-A full README is included with the .exe — open `README.txt` next to the
-program for daily-use instructions, backup info, and troubleshooting.
+On first launch the app creates everything it needs next to itself
+(`templates\`, `data\`, etc.) and extracts starter search-warrant and
+warrant-return Word templates into `templates\`. Open either file in
+Word any time to customize the wording or layout for your agency —
+your edits are preserved on every future launch.
+
+A full daily-use guide, backup instructions, and troubleshooting are
+included in `README.txt`, which the app drops next to itself the first
+time it runs.
 
 ## Features
 
