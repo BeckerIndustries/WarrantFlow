@@ -1,0 +1,4560 @@
+{
+  "schema": "warrantflow.statutes.v1",
+  "description": "Cleaned California statute list generated from legacy CAD/RMS code table for search warrant offense selection.",
+  "records": [
+    {
+      "code_type": "PC",
+      "code": "31",
+      "citation": "PC 31",
+      "title": "Aiding and Abetting",
+      "keywords": [
+        "abetting",
+        "aiding"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "32",
+      "citation": "PC 32",
+      "title": "Accessory",
+      "keywords": [
+        "accessory"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "69",
+      "citation": "PC 69",
+      "title": "Resisting Executive Officer",
+      "keywords": [
+        "executive",
+        "officer",
+        "resisting"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "71",
+      "citation": "PC 71",
+      "title": "Threatening Public Officer or Employee",
+      "keywords": [
+        "employee",
+        "officer",
+        "public",
+        "threatening"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "118",
+      "citation": "PC 118",
+      "title": "Perjury",
+      "keywords": [
+        "perjury"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "136.1",
+      "citation": "PC 136.1",
+      "title": "Dissuading a Witness or Victim",
+      "keywords": [
+        "dissuading",
+        "victim",
+        "witness"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "137",
+      "citation": "PC 137",
+      "title": "Influencing Testimony",
+      "keywords": [
+        "influencing",
+        "testimony"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "146",
+      "citation": "PC 146",
+      "title": "Impersonating a Peace Officer",
+      "keywords": [
+        "impersonating",
+        "officer",
+        "peace"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "148",
+      "citation": "PC 148",
+      "title": "Resisting, Delaying, or Obstructing Officer",
+      "keywords": [
+        "delaying",
+        "obstructing",
+        "officer",
+        "resisting"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "148.1",
+      "citation": "PC 148.1",
+      "title": "False Bomb Report",
+      "keywords": [
+        "bomb",
+        "false",
+        "report"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "148.3",
+      "citation": "PC 148.3",
+      "title": "False Emergency Report",
+      "keywords": [
+        "emergency",
+        "false",
+        "report"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "148.5",
+      "citation": "PC 148.5",
+      "title": "False Report of Crime",
+      "keywords": [
+        "crime",
+        "false",
+        "report"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "148.9",
+      "citation": "PC 148.9",
+      "title": "False Identification to Peace Officer",
+      "keywords": [
+        "false",
+        "identification",
+        "officer",
+        "peace"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "166.4",
+      "citation": "PC 166.4",
+      "title": "Violation of Court Order",
+      "keywords": [
+        "court",
+        "order"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "182",
+      "citation": "PC 182",
+      "title": "Conspiracy",
+      "keywords": [
+        "conspiracy"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "186.10",
+      "citation": "PC 186.10",
+      "title": "Money Laundering",
+      "keywords": [
+        "laundering",
+        "money"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "186.30",
+      "citation": "PC 186.30",
+      "title": "Gang Registration",
+      "keywords": [
+        "gang",
+        "registration"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "187",
+      "citation": "PC 187",
+      "title": "Murder / Homicide",
+      "keywords": [
+        "homicide",
+        "murder"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "192",
+      "citation": "PC 192",
+      "title": "Manslaughter",
+      "keywords": [
+        "manslaughter"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "203",
+      "citation": "PC 203",
+      "title": "Mayhem",
+      "keywords": [
+        "mayhem"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "206",
+      "citation": "PC 206",
+      "title": "Torture",
+      "keywords": [
+        "torture"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "207",
+      "citation": "PC 207",
+      "title": "Kidnapping",
+      "keywords": [
+        "abduction",
+        "detention",
+        "false imprisonment",
+        "hostage",
+        "kidnapping",
+        "movement"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "210.5",
+      "citation": "PC 210.5",
+      "title": "Taking a Hostage",
+      "keywords": [
+        "hostage",
+        "taking"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "211",
+      "citation": "PC 211",
+      "title": "Robbery",
+      "keywords": [
+        "armed robbery",
+        "force or fear",
+        "robbery",
+        "strong arm",
+        "theft from person",
+        "victim",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "212.5",
+      "citation": "PC 212.5",
+      "title": "Residential Robbery",
+      "keywords": [
+        "armed robbery",
+        "force or fear",
+        "residential",
+        "robbery",
+        "strong arm",
+        "theft from person",
+        "victim",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "215",
+      "citation": "PC 215",
+      "title": "Carjacking",
+      "keywords": [
+        "auto theft",
+        "carjacking",
+        "force or fear",
+        "occupied vehicle",
+        "robbery",
+        "vehicle theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "219.2",
+      "citation": "PC 219.2",
+      "title": "Throwing Object At or Shooting At Vehicle",
+      "keywords": [
+        "object",
+        "shooting",
+        "throwing",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "220",
+      "citation": "PC 220",
+      "title": "Assault With Intent to Commit Sex Offense",
+      "keywords": [
+        "adw",
+        "assault",
+        "child sexual abuse material",
+        "commit",
+        "csam",
+        "force",
+        "injury",
+        "intent",
+        "minor",
+        "registrant",
+        "sex",
+        "sexual assault",
+        "threat",
+        "violence",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "236",
+      "citation": "PC 236",
+      "title": "False Imprisonment",
+      "keywords": [
+        "false",
+        "imprisonment"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "236.1",
+      "citation": "PC 236.1",
+      "title": "Human Trafficking",
+      "keywords": [
+        "human",
+        "trafficking"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "240",
+      "citation": "PC 240",
+      "title": "Assault",
+      "keywords": [
+        "adw",
+        "assault",
+        "force",
+        "injury",
+        "threat",
+        "violence",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "241.3",
+      "citation": "PC 241.3",
+      "title": "Assault on Transit Personnel or Passenger",
+      "keywords": [
+        "adw",
+        "assault",
+        "force",
+        "injury",
+        "passenger",
+        "personnel",
+        "threat",
+        "transit",
+        "violence",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "242",
+      "citation": "PC 242",
+      "title": "Battery",
+      "keywords": [
+        "battery",
+        "domestic violence",
+        "force",
+        "injury",
+        "victim",
+        "violence"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "243.4",
+      "citation": "PC 243.4",
+      "title": "Sexual Battery",
+      "keywords": [
+        "battery",
+        "child sexual abuse material",
+        "csam",
+        "domestic violence",
+        "force",
+        "injury",
+        "minor",
+        "registrant",
+        "sexual",
+        "sexual assault",
+        "victim",
+        "violence"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "243(b)",
+      "citation": "PC 243(b)",
+      "title": "Battery on Peace Officer / Public Safety Personnel",
+      "keywords": [
+        "battery",
+        "domestic violence",
+        "force",
+        "injury",
+        "officer",
+        "peace",
+        "personnel",
+        "public",
+        "safety",
+        "victim",
+        "violence"
+      ],
+      "source_code": "243B"
+    },
+    {
+      "code_type": "PC",
+      "code": "243(d)",
+      "citation": "PC 243(d)",
+      "title": "Battery Causing Serious Bodily Injury",
+      "keywords": [
+        "battery",
+        "bodily",
+        "causing",
+        "domestic violence",
+        "force",
+        "injury",
+        "serious",
+        "victim",
+        "violence"
+      ],
+      "source_code": "243D"
+    },
+    {
+      "code_type": "PC",
+      "code": "243(e)(1)",
+      "citation": "PC 243(e)(1)",
+      "title": "Domestic Battery",
+      "keywords": [
+        "battery",
+        "cohabitant",
+        "dating relationship",
+        "domestic",
+        "domestic violence",
+        "force",
+        "injury",
+        "protective order",
+        "spouse",
+        "victim",
+        "violence"
+      ],
+      "source_code": "243E1"
+    },
+    {
+      "code_type": "PC",
+      "code": "244",
+      "citation": "PC 244",
+      "title": "Assault With Caustic Chemical",
+      "keywords": [
+        "adw",
+        "assault",
+        "caustic",
+        "chemical",
+        "force",
+        "injury",
+        "threat",
+        "violence",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "244.5",
+      "citation": "PC 244.5",
+      "title": "Assault With Stun Gun or Taser",
+      "keywords": [
+        "adw",
+        "assault",
+        "force",
+        "gun",
+        "injury",
+        "stun",
+        "taser",
+        "threat",
+        "violence",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "245",
+      "citation": "PC 245",
+      "title": "Assault With Deadly Weapon",
+      "keywords": [
+        "adw",
+        "assault",
+        "assault weapon",
+        "deadly",
+        "deadly weapon",
+        "firearm",
+        "force",
+        "gun",
+        "injury",
+        "knife",
+        "threat",
+        "violence",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "245(c)",
+      "citation": "PC 245(c)",
+      "title": "Assault With Deadly Weapon on Peace Officer",
+      "keywords": [
+        "adw",
+        "assault",
+        "assault weapon",
+        "deadly",
+        "deadly weapon",
+        "firearm",
+        "force",
+        "gun",
+        "injury",
+        "knife",
+        "officer",
+        "peace",
+        "threat",
+        "violence",
+        "weapon"
+      ],
+      "source_code": "245C"
+    },
+    {
+      "code_type": "PC",
+      "code": "246",
+      "citation": "PC 246",
+      "title": "Shooting at Inhabited Dwelling / Occupied Vehicle",
+      "keywords": [
+        "dwelling",
+        "inhabited",
+        "occupied",
+        "shooting",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "246.3",
+      "citation": "PC 246.3",
+      "title": "Negligent Discharge of Firearm",
+      "keywords": [
+        "ammunition",
+        "armed",
+        "discharge",
+        "firearm",
+        "gun",
+        "negligent",
+        "shooting",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "247.5",
+      "citation": "PC 247.5",
+      "title": "Discharge of Laser at Aircraft",
+      "keywords": [
+        "aircraft",
+        "discharge",
+        "laser"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "248",
+      "citation": "PC 248",
+      "title": "Interfering With Aircraft",
+      "keywords": [
+        "aircraft",
+        "interfering"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "261",
+      "citation": "PC 261",
+      "title": "Rape",
+      "keywords": [
+        "rape"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "261.5",
+      "citation": "PC 261.5",
+      "title": "Unlawful Sex With Minor",
+      "keywords": [
+        "child sexual abuse material",
+        "csam",
+        "minor",
+        "registrant",
+        "sex",
+        "sexual assault",
+        "unlawful"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "262",
+      "citation": "PC 262",
+      "title": "Rape of Spouse",
+      "keywords": [
+        "rape",
+        "spouse"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "266",
+      "citation": "PC 266",
+      "title": "Abduction / Procurement for Prostitution",
+      "keywords": [
+        "abduction",
+        "procurement",
+        "prostitution"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "266h",
+      "citation": "PC 266h",
+      "title": "Pimping",
+      "keywords": [
+        "pimping"
+      ],
+      "source_code": "266H"
+    },
+    {
+      "code_type": "PC",
+      "code": "266i",
+      "citation": "PC 266i",
+      "title": "Pandering",
+      "keywords": [
+        "pandering"
+      ],
+      "source_code": "266I"
+    },
+    {
+      "code_type": "PC",
+      "code": "270",
+      "citation": "PC 270",
+      "title": "Child Neglect / Failure to Support",
+      "keywords": [
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "failure",
+        "juvenile",
+        "minor",
+        "neglect",
+        "support"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "270.5",
+      "citation": "PC 270.5",
+      "title": "Failure to Provide",
+      "keywords": [
+        "failure",
+        "provide"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "271",
+      "citation": "PC 271",
+      "title": "Child Abandonment",
+      "keywords": [
+        "abandonment",
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "juvenile",
+        "minor"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "272",
+      "citation": "PC 272",
+      "title": "Contributing to Delinquency of Minor",
+      "keywords": [
+        "contributing",
+        "delinquency",
+        "minor"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "273.5",
+      "citation": "PC 273.5",
+      "title": "Corporal Injury to Spouse or Cohabitant",
+      "keywords": [
+        "cohabitant",
+        "corporal",
+        "injury",
+        "spouse"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "273.6",
+      "citation": "PC 273.6",
+      "title": "Violation of Domestic Violence Restraining Order",
+      "keywords": [
+        "cohabitant",
+        "dating relationship",
+        "domestic",
+        "domestic violence",
+        "order",
+        "protective order",
+        "restraining",
+        "spouse",
+        "violence"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "273A",
+      "citation": "PC 273A",
+      "title": "Child Endangerment",
+      "keywords": [
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "endangerment",
+        "juvenile",
+        "minor"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "273D",
+      "citation": "PC 273D",
+      "title": "Child Abuse",
+      "keywords": [
+        "abuse",
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "juvenile",
+        "minor"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "275",
+      "citation": "PC 275",
+      "title": "Proc Miscarriage",
+      "keywords": [
+        "miscarriage",
+        "proc"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "277",
+      "citation": "PC 277",
+      "title": "Child Abduction",
+      "keywords": [
+        "abduction",
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "juvenile",
+        "minor"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "278",
+      "citation": "PC 278",
+      "title": "Child Abduction Without Custody Right",
+      "keywords": [
+        "abduction",
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "juvenile",
+        "minor",
+        "right",
+        "without"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "278.5",
+      "citation": "PC 278.5",
+      "title": "Deprivation of Custody",
+      "keywords": [
+        "custody",
+        "deprivation"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "281",
+      "citation": "PC 281",
+      "title": "Bigamy",
+      "keywords": [
+        "bigamy"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "285",
+      "citation": "PC 285",
+      "title": "Incest",
+      "keywords": [
+        "incest"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "286",
+      "citation": "PC 286",
+      "title": "Sodomy",
+      "keywords": [
+        "sodomy"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "287",
+      "citation": "PC 287",
+      "title": "Oral Copulation",
+      "keywords": [
+        "copulation",
+        "oral"
+      ],
+      "source_code": "288A"
+    },
+    {
+      "code_type": "PC",
+      "code": "288",
+      "citation": "PC 288",
+      "title": "Lewd or Lascivious Acts With Child",
+      "keywords": [
+        "acts",
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "juvenile",
+        "lascivious",
+        "lewd",
+        "minor"
+      ],
+      "source_code": "288R"
+    },
+    {
+      "code_type": "PC",
+      "code": "288.2(B)",
+      "citation": "PC 288.2(B)",
+      "title": "Internet Communication With Intent to Seduce Minor",
+      "keywords": [
+        "communication",
+        "intent",
+        "internet",
+        "minor",
+        "seduce"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "289",
+      "citation": "PC 289",
+      "title": "Penetration With Foreign Object",
+      "keywords": [
+        "foreign",
+        "object",
+        "penetration"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "290",
+      "citation": "PC 290",
+      "title": "Sex Offender Registration",
+      "keywords": [
+        "child sexual abuse material",
+        "csam",
+        "minor",
+        "offender",
+        "registrant",
+        "registration",
+        "sex",
+        "sexual assault"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "308(b)",
+      "citation": "PC 308(b)",
+      "title": "Tobacco Furnishing / Minor Tobacco Offense",
+      "keywords": [
+        "furnishing",
+        "minor",
+        "tobacco"
+      ],
+      "source_code": "308B"
+    },
+    {
+      "code_type": "PC",
+      "code": "311.2",
+      "citation": "PC 311.2",
+      "title": "Obscene Matter",
+      "keywords": [
+        "matter",
+        "obscene"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "311.3",
+      "citation": "PC 311.3",
+      "title": "Sexual Exploitation of Child / Child Pornography",
+      "keywords": [
+        "child",
+        "child abuse",
+        "child endangerment",
+        "child sexual abuse material",
+        "csam",
+        "custody",
+        "exploitation",
+        "juvenile",
+        "minor",
+        "pornography",
+        "registrant",
+        "sexual",
+        "sexual assault"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "311.4",
+      "citation": "PC 311.4",
+      "title": "Using Minor in Obscene Matter",
+      "keywords": [
+        "matter",
+        "minor",
+        "obscene",
+        "using"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "311.11",
+      "citation": "PC 311.11",
+      "title": "Possession of Child Sexual Abuse Material",
+      "keywords": [
+        "abuse",
+        "child",
+        "child abuse",
+        "child endangerment",
+        "child sexual abuse material",
+        "csam",
+        "custody",
+        "juvenile",
+        "material",
+        "minor",
+        "possession",
+        "registrant",
+        "sexual",
+        "sexual assault"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "314",
+      "citation": "PC 314",
+      "title": "Indecent Exposure",
+      "keywords": [
+        "exposure",
+        "indecent"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "315",
+      "citation": "PC 315",
+      "title": "Keeping House of Prostitution",
+      "keywords": [
+        "house",
+        "keeping",
+        "prostitution"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "320",
+      "citation": "PC 320",
+      "title": "Illegal Lottery",
+      "keywords": [
+        "illegal",
+        "lottery"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "330",
+      "citation": "PC 330",
+      "title": "Gambling",
+      "keywords": [
+        "gambling"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "337a",
+      "citation": "PC 337a",
+      "title": "Bookmaking",
+      "keywords": [
+        "bookmaking"
+      ],
+      "source_code": "337A"
+    },
+    {
+      "code_type": "PC",
+      "code": "346",
+      "citation": "PC 346",
+      "title": "Ticket Scalping",
+      "keywords": [
+        "scalping",
+        "ticket"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "368",
+      "citation": "PC 368",
+      "title": "Elder or Dependent Adult Abuse",
+      "keywords": [
+        "abuse",
+        "adult",
+        "dependent",
+        "elder"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "369i",
+      "citation": "PC 369i",
+      "title": "Railroad Trespass",
+      "keywords": [
+        "railroad",
+        "trespass"
+      ],
+      "source_code": "369I"
+    },
+    {
+      "code_type": "PC",
+      "code": "370",
+      "citation": "PC 370",
+      "title": "Public Nuisance",
+      "keywords": [
+        "nuisance",
+        "public"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "374.8",
+      "citation": "PC 374.8",
+      "title": "Illegal Disposal of Hazardous Waste",
+      "keywords": [
+        "disposal",
+        "hazardous",
+        "illegal",
+        "waste"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "374b",
+      "citation": "PC 374b",
+      "title": "Illegal Dumping",
+      "keywords": [
+        "dumping",
+        "illegal"
+      ],
+      "source_code": "374B"
+    },
+    {
+      "code_type": "PC",
+      "code": "374c",
+      "citation": "PC 374c",
+      "title": "Shooting in Roadway",
+      "keywords": [
+        "roadway",
+        "shooting"
+      ],
+      "source_code": "374C"
+    },
+    {
+      "code_type": "PC",
+      "code": "381",
+      "citation": "PC 381",
+      "title": "Inhaling Toluene",
+      "keywords": [
+        "inhaling",
+        "toluene"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "384a",
+      "citation": "PC 384a",
+      "title": "Destruction of Highway Vegetation",
+      "keywords": [
+        "destruction",
+        "highway",
+        "vegetation"
+      ],
+      "source_code": "384A"
+    },
+    {
+      "code_type": "PC",
+      "code": "402b",
+      "citation": "PC 402b",
+      "title": "Discarding Refrigerator / Entrapment Hazard",
+      "keywords": [
+        "discarding",
+        "entrapment",
+        "hazard",
+        "refrigerator"
+      ],
+      "source_code": "402B"
+    },
+    {
+      "code_type": "PC",
+      "code": "404.6",
+      "citation": "PC 404.6",
+      "title": "Inciting a Riot",
+      "keywords": [
+        "inciting",
+        "riot"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "405a",
+      "citation": "PC 405a",
+      "title": "Lynching / Taking Person From Custody",
+      "keywords": [
+        "custody",
+        "from",
+        "lynching",
+        "taking"
+      ],
+      "source_code": "405A"
+    },
+    {
+      "code_type": "PC",
+      "code": "407",
+      "citation": "PC 407",
+      "title": "Unlawful Assembly",
+      "keywords": [
+        "assembly",
+        "unlawful"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "415",
+      "citation": "PC 415",
+      "title": "Disturbing the Peace",
+      "keywords": [
+        "disturbing",
+        "peace"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "415.5",
+      "citation": "PC 415.5",
+      "title": "Disturbing School",
+      "keywords": [
+        "disturbing",
+        "school"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "417",
+      "citation": "PC 417",
+      "title": "Brandishing Weapon",
+      "keywords": [
+        "assault weapon",
+        "brandishing",
+        "deadly weapon",
+        "firearm",
+        "gun",
+        "knife",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "422",
+      "citation": "PC 422",
+      "title": "Criminal Threats",
+      "keywords": [
+        "criminal",
+        "fear",
+        "terrorist threats",
+        "threats",
+        "victim",
+        "violence"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "423.2",
+      "citation": "PC 423.2",
+      "title": "Interference With Reproductive Health Services",
+      "keywords": [
+        "health",
+        "interference",
+        "reproductive",
+        "services"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "451",
+      "citation": "PC 451",
+      "title": "Arson",
+      "keywords": [
+        "accelerant",
+        "arson",
+        "burning",
+        "fire",
+        "structure fire",
+        "vehicle fire"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "452",
+      "citation": "PC 452",
+      "title": "Unlawfully Causing a Fire",
+      "keywords": [
+        "causing",
+        "fire",
+        "unlawfully"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "457.1",
+      "citation": "PC 457.1",
+      "title": "Arson Registration",
+      "keywords": [
+        "accelerant",
+        "arson",
+        "burning",
+        "fire",
+        "registration",
+        "structure fire",
+        "vehicle fire"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "458",
+      "citation": "PC 458",
+      "title": "Cargo Theft / Burglary of Cargo",
+      "keywords": [
+        "break in",
+        "building entry",
+        "burglary",
+        "cargo",
+        "commercial burglary",
+        "forced entry",
+        "larceny",
+        "loss",
+        "property crime",
+        "residential burglary",
+        "shoplifting",
+        "stolen property",
+        "surveillance",
+        "taking",
+        "theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "459",
+      "citation": "PC 459",
+      "title": "Burglary",
+      "keywords": [
+        "break in",
+        "building entry",
+        "burglary",
+        "commercial burglary",
+        "forced entry",
+        "residential burglary",
+        "shoplifting",
+        "stolen property",
+        "store theft",
+        "surveillance"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "459.5",
+      "citation": "PC 459.5",
+      "title": "Shoplifting",
+      "keywords": [
+        "burglary",
+        "commercial burglary",
+        "shoplifting",
+        "store theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "466",
+      "citation": "PC 466",
+      "title": "Possession of Burglary Tools",
+      "keywords": [
+        "break in",
+        "building entry",
+        "burglary",
+        "commercial burglary",
+        "forced entry",
+        "possession",
+        "residential burglary",
+        "stolen property",
+        "surveillance",
+        "tools"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "470",
+      "citation": "PC 470",
+      "title": "Forgery",
+      "keywords": [
+        "forgery"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "470a",
+      "citation": "PC 470a",
+      "title": "Forgery of Driver License or ID",
+      "keywords": [
+        "driver",
+        "forgery",
+        "license"
+      ],
+      "source_code": "470A"
+    },
+    {
+      "code_type": "PC",
+      "code": "475",
+      "citation": "PC 475",
+      "title": "Possession of Forged Instrument",
+      "keywords": [
+        "forged",
+        "instrument",
+        "possession"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "476",
+      "citation": "PC 476",
+      "title": "Check Fraud",
+      "keywords": [
+        "access card",
+        "check",
+        "false pretenses",
+        "financial crime",
+        "forgery",
+        "fraud"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "476a",
+      "citation": "PC 476a",
+      "title": "Non-Sufficient Funds Check",
+      "keywords": [
+        "check",
+        "funds",
+        "non",
+        "sufficient"
+      ],
+      "source_code": "476A"
+    },
+    {
+      "code_type": "PC",
+      "code": "476b",
+      "citation": "PC 476b",
+      "title": "Insufficient Funds Check",
+      "keywords": [
+        "check",
+        "funds",
+        "insufficient"
+      ],
+      "source_code": "476B"
+    },
+    {
+      "code_type": "PC",
+      "code": "484",
+      "citation": "PC 484",
+      "title": "Theft by Fraud",
+      "keywords": [
+        "access card",
+        "check",
+        "false pretenses",
+        "financial crime",
+        "forgery",
+        "fraud",
+        "larceny",
+        "loss",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "484(a)",
+      "citation": "PC 484(a)",
+      "title": "Theft",
+      "keywords": [
+        "larceny",
+        "loss",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ],
+      "source_value": "484A"
+    },
+    {
+      "code_type": "PC",
+      "code": "484e",
+      "citation": "PC 484e",
+      "title": "Credit Card Theft / Access Card Fraud",
+      "keywords": [
+        "access",
+        "access card",
+        "card",
+        "check",
+        "credit",
+        "false pretenses",
+        "financial crime",
+        "forgery",
+        "fraud",
+        "larceny",
+        "loss",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ],
+      "source_code": "484E"
+    },
+    {
+      "code_type": "PC",
+      "code": "484g",
+      "citation": "PC 484g",
+      "title": "Fraudulent Use of Access Card",
+      "keywords": [
+        "access",
+        "access card",
+        "card",
+        "check",
+        "false pretenses",
+        "financial crime",
+        "forgery",
+        "fraudulent",
+        "use"
+      ],
+      "source_code": "484G"
+    },
+    {
+      "code_type": "PC",
+      "code": "485",
+      "citation": "PC 485",
+      "title": "Misappropriation of Found Property",
+      "keywords": [
+        "found",
+        "misappropriation",
+        "property"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "487",
+      "citation": "PC 487",
+      "title": "Grand Theft",
+      "keywords": [
+        "grand",
+        "high value theft",
+        "larceny",
+        "loss",
+        "loss over 950",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "vehicle theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "487.3",
+      "citation": "PC 487.3",
+      "title": "Theft of Firearm",
+      "keywords": [
+        "ammunition",
+        "armed",
+        "firearm",
+        "gun",
+        "larceny",
+        "loss",
+        "property crime",
+        "shooting",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "487a",
+      "citation": "PC 487a",
+      "title": "Grand Theft of Livestock",
+      "keywords": [
+        "grand",
+        "high value theft",
+        "larceny",
+        "livestock",
+        "loss",
+        "loss over 950",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "vehicle theft"
+      ],
+      "source_code": "487A"
+    },
+    {
+      "code_type": "PC",
+      "code": "487e",
+      "citation": "PC 487e",
+      "title": "Grand Theft of Dog",
+      "keywords": [
+        "dog",
+        "grand",
+        "high value theft",
+        "larceny",
+        "loss",
+        "loss over 950",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "vehicle theft"
+      ],
+      "source_code": "487E"
+    },
+    {
+      "code_type": "PC",
+      "code": "487f",
+      "citation": "PC 487f",
+      "title": "Theft of Dog",
+      "keywords": [
+        "dog",
+        "larceny",
+        "loss",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ],
+      "source_code": "487F"
+    },
+    {
+      "code_type": "PC",
+      "code": "487(h)",
+      "citation": "PC 487(h)",
+      "title": "Theft of Cargo",
+      "keywords": [
+        "cargo",
+        "larceny",
+        "loss",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ],
+      "source_value": "487H"
+    },
+    {
+      "code_type": "PC",
+      "code": "488",
+      "citation": "PC 488",
+      "title": "Petty Theft",
+      "keywords": [
+        "larceny",
+        "loss",
+        "loss under 950",
+        "petty",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "490.1",
+      "citation": "PC 490.1",
+      "title": "Petty Theft Under $50",
+      "keywords": [
+        "larceny",
+        "loss",
+        "loss under 950",
+        "petty",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "under"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "490.3",
+      "citation": "PC 490.3",
+      "title": "Aggregation of Theft Value",
+      "keywords": [
+        "aggregation",
+        "larceny",
+        "loss",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "value"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "490.4",
+      "citation": "PC 490.4",
+      "title": "Organized Retail Theft",
+      "keywords": [
+        "boosting",
+        "fencing",
+        "larceny",
+        "loss",
+        "organized",
+        "organized theft",
+        "property crime",
+        "retail",
+        "retail theft",
+        "shoplifting",
+        "shoplifting ring",
+        "stolen property",
+        "store theft",
+        "taking",
+        "theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "490.5",
+      "citation": "PC 490.5",
+      "title": "Retail Theft / Shoplifting",
+      "keywords": [
+        "larceny",
+        "loss",
+        "property crime",
+        "retail",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "496",
+      "citation": "PC 496",
+      "title": "Receiving Stolen Property",
+      "keywords": [
+        "fencing",
+        "possession",
+        "property",
+        "property crime",
+        "receiving",
+        "stolen",
+        "stolen property",
+        "theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "496(a)",
+      "citation": "PC 496(a)",
+      "title": "Receiving Stolen Property",
+      "keywords": [
+        "fencing",
+        "possession",
+        "property",
+        "property crime",
+        "receiving",
+        "stolen",
+        "stolen property",
+        "theft"
+      ],
+      "source_value": "496A"
+    },
+    {
+      "code_type": "PC",
+      "code": "497",
+      "citation": "PC 497",
+      "title": "Bringing Stolen Property Into State",
+      "keywords": [
+        "bringing",
+        "into",
+        "property",
+        "state",
+        "stolen"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "498",
+      "citation": "PC 498",
+      "title": "Theft of Utilities",
+      "keywords": [
+        "larceny",
+        "loss",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "utilities"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "499b",
+      "citation": "PC 499b",
+      "title": "Joyriding",
+      "keywords": [
+        "joyriding"
+      ],
+      "source_code": "499B"
+    },
+    {
+      "code_type": "PC",
+      "code": "499c",
+      "citation": "PC 499c",
+      "title": "Theft of Trade Secrets",
+      "keywords": [
+        "larceny",
+        "loss",
+        "property crime",
+        "secrets",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "trade"
+      ],
+      "source_code": "499C"
+    },
+    {
+      "code_type": "PC",
+      "code": "502",
+      "citation": "PC 502",
+      "title": "Computer Crimes",
+      "keywords": [
+        "account",
+        "computer",
+        "crimes",
+        "data theft",
+        "device",
+        "hacking",
+        "network",
+        "unauthorized access"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "502.7",
+      "citation": "PC 502.7",
+      "title": "Theft of Telephone Services",
+      "keywords": [
+        "larceny",
+        "loss",
+        "property crime",
+        "services",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "telephone",
+        "theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "503",
+      "citation": "PC 503",
+      "title": "Embezzlement",
+      "keywords": [
+        "embezzlement"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "518",
+      "citation": "PC 518",
+      "title": "Extortion",
+      "keywords": [
+        "extortion"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "529",
+      "citation": "PC 529",
+      "title": "False Personation",
+      "keywords": [
+        "false",
+        "personation"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "530.5",
+      "citation": "PC 530.5",
+      "title": "Identity Theft",
+      "keywords": [
+        "account takeover",
+        "bank account",
+        "credit card",
+        "credit card fraud",
+        "fake identity",
+        "fraud",
+        "id theft",
+        "identity",
+        "identity fraud",
+        "larceny",
+        "loss",
+        "personal identifying information",
+        "pii",
+        "property crime",
+        "shoplifting",
+        "social security",
+        "stolen property",
+        "taking",
+        "theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "532",
+      "citation": "PC 532",
+      "title": "Theft by False Pretenses",
+      "keywords": [
+        "false",
+        "larceny",
+        "loss",
+        "pretenses",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "537",
+      "citation": "PC 537",
+      "title": "Defrauding an Innkeeper",
+      "keywords": [
+        "access card",
+        "check",
+        "defrauding",
+        "false pretenses",
+        "financial crime",
+        "forgery",
+        "innkeeper"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "537e",
+      "citation": "PC 537e",
+      "title": "Serial Number Removed / Altered",
+      "keywords": [
+        "altered",
+        "number",
+        "removed",
+        "serial"
+      ],
+      "source_code": "537E"
+    },
+    {
+      "code_type": "PC",
+      "code": "587",
+      "citation": "PC 587",
+      "title": "Damage to Railroad Property",
+      "keywords": [
+        "damage",
+        "property",
+        "railroad"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "591",
+      "citation": "PC 591",
+      "title": "Damage to Telephone / Telegraph Lines",
+      "keywords": [
+        "damage",
+        "lines",
+        "telegraph",
+        "telephone"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "592",
+      "citation": "PC 592",
+      "title": "Theft of Public Utilities",
+      "keywords": [
+        "larceny",
+        "loss",
+        "property crime",
+        "public",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "utilities"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "593d",
+      "citation": "PC 593d",
+      "title": "Theft of Cable Television Service",
+      "keywords": [
+        "cable",
+        "larceny",
+        "loss",
+        "property crime",
+        "service",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "television",
+        "theft"
+      ],
+      "source_code": "593D"
+    },
+    {
+      "code_type": "PC",
+      "code": "594",
+      "citation": "PC 594",
+      "title": "Vandalism",
+      "keywords": [
+        "damage",
+        "graffiti",
+        "malicious mischief",
+        "property damage",
+        "vandalism"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "594(b)",
+      "citation": "PC 594(b)",
+      "title": "Vandalism Over $400 / Graffiti Damage",
+      "keywords": [
+        "400",
+        "damage",
+        "graffiti",
+        "malicious mischief",
+        "over",
+        "property damage",
+        "vandalism"
+      ],
+      "source_code": "594B"
+    },
+    {
+      "code_type": "PC",
+      "code": "597",
+      "citation": "PC 597",
+      "title": "Animal Cruelty",
+      "keywords": [
+        "animal",
+        "cruelty"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "602",
+      "citation": "PC 602",
+      "title": "Trespass",
+      "keywords": [
+        "trespass"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "602.5",
+      "citation": "PC 602.5",
+      "title": "Unauthorized Entry of Dwelling",
+      "keywords": [
+        "dwelling",
+        "entry",
+        "unauthorized"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "603",
+      "citation": "PC 603",
+      "title": "Trespass With Vandalism",
+      "keywords": [
+        "damage",
+        "graffiti",
+        "malicious mischief",
+        "property damage",
+        "trespass",
+        "vandalism"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "625c",
+      "citation": "PC 625c",
+      "title": "Obstructing Vehicle / Railroad Right-of-Way",
+      "keywords": [
+        "obstructing",
+        "railroad",
+        "right",
+        "vehicle",
+        "way"
+      ],
+      "source_code": "625C"
+    },
+    {
+      "code_type": "PC",
+      "code": "626",
+      "citation": "PC 626",
+      "title": "School Crime",
+      "keywords": [
+        "crime",
+        "school"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "626.1",
+      "citation": "PC 626.1",
+      "title": "Weapon at School",
+      "keywords": [
+        "assault weapon",
+        "deadly weapon",
+        "firearm",
+        "gun",
+        "knife",
+        "school",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "626.9",
+      "citation": "PC 626.9",
+      "title": "Firearm on School Grounds",
+      "keywords": [
+        "ammunition",
+        "armed",
+        "firearm",
+        "grounds",
+        "gun",
+        "school",
+        "shooting",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "626.10",
+      "citation": "PC 626.10",
+      "title": "Weapon on School Grounds",
+      "keywords": [
+        "assault weapon",
+        "deadly weapon",
+        "firearm",
+        "grounds",
+        "gun",
+        "knife",
+        "school",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "632a",
+      "citation": "PC 632a",
+      "title": "Illegal Recording of Conversation",
+      "keywords": [
+        "conversation",
+        "illegal",
+        "recording"
+      ],
+      "source_code": "632A"
+    },
+    {
+      "code_type": "PC",
+      "code": "640",
+      "citation": "PC 640",
+      "title": "Public Transit Crime",
+      "keywords": [
+        "crime",
+        "public",
+        "transit"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "640.6",
+      "citation": "PC 640.6",
+      "title": "Graffiti",
+      "keywords": [
+        "graffiti"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "646.9",
+      "citation": "PC 646.9",
+      "title": "Stalking",
+      "keywords": [
+        "cyberstalking",
+        "following",
+        "harassment",
+        "restraining order",
+        "stalking",
+        "threats"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "647",
+      "citation": "PC 647",
+      "title": "Disorderly Conduct",
+      "keywords": [
+        "conduct",
+        "disorderly"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "647.6",
+      "citation": "PC 647.6",
+      "title": "Annoying or Molesting a Child",
+      "keywords": [
+        "annoying",
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "juvenile",
+        "minor",
+        "molesting"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "647(a)",
+      "citation": "PC 647(a)",
+      "title": "Lewd Conduct",
+      "keywords": [
+        "conduct",
+        "lewd"
+      ],
+      "source_code": "647A"
+    },
+    {
+      "code_type": "PC",
+      "code": "647(b)",
+      "citation": "PC 647(b)",
+      "title": "Prostitution",
+      "keywords": [
+        "prostitution"
+      ],
+      "source_code": "647B"
+    },
+    {
+      "code_type": "PC",
+      "code": "647(c)",
+      "citation": "PC 647(c)",
+      "title": "Aggressive Panhandling / Accosting",
+      "keywords": [
+        "accosting",
+        "aggressive",
+        "panhandling"
+      ],
+      "source_code": "647C"
+    },
+    {
+      "code_type": "PC",
+      "code": "647(e)",
+      "citation": "PC 647(e)",
+      "title": "Loitering",
+      "keywords": [
+        "loitering"
+      ],
+      "source_code": "647E"
+    },
+    {
+      "code_type": "PC",
+      "code": "647(f)",
+      "citation": "PC 647(f)",
+      "title": "Public Intoxication",
+      "keywords": [
+        "intoxication",
+        "public"
+      ],
+      "source_code": "647F"
+    },
+    {
+      "code_type": "PC",
+      "code": "647(g)",
+      "citation": "PC 647(g)",
+      "title": "Prowling",
+      "keywords": [
+        "prowling"
+      ],
+      "source_code": "647G"
+    },
+    {
+      "code_type": "PC",
+      "code": "647(h)",
+      "citation": "PC 647(h)",
+      "title": "Peeping",
+      "keywords": [
+        "peeping"
+      ],
+      "source_code": "647H"
+    },
+    {
+      "code_type": "PC",
+      "code": "648",
+      "citation": "PC 648",
+      "title": "Counterfeit Money",
+      "keywords": [
+        "counterfeit",
+        "money"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "653.22",
+      "citation": "PC 653.22",
+      "title": "Loitering With Intent to Commit Prostitution",
+      "keywords": [
+        "commit",
+        "intent",
+        "loitering",
+        "prostitution"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "653f",
+      "citation": "PC 653f",
+      "title": "Solicitation to Commit Specified Crimes",
+      "keywords": [
+        "commit",
+        "crimes",
+        "solicitation",
+        "specified"
+      ],
+      "source_code": "653F"
+    },
+    {
+      "code_type": "PC",
+      "code": "653k",
+      "citation": "PC 653k",
+      "title": "Switchblade Possession",
+      "keywords": [
+        "possession",
+        "switchblade"
+      ],
+      "source_code": "653K"
+    },
+    {
+      "code_type": "PC",
+      "code": "653m",
+      "citation": "PC 653m",
+      "title": "Annoying / Obscene Phone Calls",
+      "keywords": [
+        "annoying",
+        "calls",
+        "obscene",
+        "phone"
+      ],
+      "source_code": "653M"
+    },
+    {
+      "code_type": "PC",
+      "code": "653x",
+      "citation": "PC 653x",
+      "title": "Harassing 911 Calls",
+      "keywords": [
+        "911",
+        "calls",
+        "harassing"
+      ],
+      "source_code": "653X"
+    },
+    {
+      "code_type": "PC",
+      "code": "655(a)",
+      "citation": "PC 655(a)",
+      "title": "Reckless / Negligent Vessel Operation",
+      "keywords": [
+        "negligent",
+        "operation",
+        "reckless",
+        "vessel"
+      ],
+      "source_code": "655A"
+    },
+    {
+      "code_type": "PC",
+      "code": "655(b)",
+      "citation": "PC 655(b)",
+      "title": "DUI Vessel Operation",
+      "keywords": [
+        "alcohol",
+        "bac",
+        "drugs",
+        "drunk driving",
+        "dui",
+        "impaired driving",
+        "operation",
+        "traffic collision",
+        "vessel"
+      ],
+      "source_code": "655B"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/187",
+      "citation": "PC 664/187",
+      "title": "Attempted Murder",
+      "keywords": [
+        "attempted",
+        "murder"
+      ],
+      "source_code": "664187"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/207",
+      "citation": "PC 664/207",
+      "title": "Attempted Kidnapping",
+      "keywords": [
+        "abduction",
+        "attempted",
+        "detention",
+        "false imprisonment",
+        "hostage",
+        "kidnapping",
+        "movement"
+      ],
+      "source_code": "664207"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/211",
+      "citation": "PC 664/211",
+      "title": "Attempted Robbery",
+      "keywords": [
+        "armed robbery",
+        "attempted",
+        "force or fear",
+        "robbery",
+        "strong arm",
+        "theft from person",
+        "victim",
+        "weapon"
+      ],
+      "source_code": "664211"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/215",
+      "citation": "PC 664/215",
+      "title": "Attempted Carjacking",
+      "keywords": [
+        "attempted",
+        "auto theft",
+        "carjacking",
+        "force or fear",
+        "occupied vehicle",
+        "robbery",
+        "vehicle theft"
+      ],
+      "source_code": "664215"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/245",
+      "citation": "PC 664/245",
+      "title": "Attempted Assault With Deadly Weapon",
+      "keywords": [
+        "adw",
+        "assault",
+        "assault weapon",
+        "attempted",
+        "deadly",
+        "deadly weapon",
+        "firearm",
+        "force",
+        "gun",
+        "injury",
+        "knife",
+        "threat",
+        "violence",
+        "weapon"
+      ],
+      "source_code": "664245"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/261",
+      "citation": "PC 664/261",
+      "title": "Attempted Rape",
+      "keywords": [
+        "attempted",
+        "rape"
+      ],
+      "source_code": "664261"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/278",
+      "citation": "PC 664/278",
+      "title": "Attempted Child Abduction",
+      "keywords": [
+        "abduction",
+        "attempted",
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "juvenile",
+        "minor"
+      ],
+      "source_code": "664278"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/451",
+      "citation": "PC 664/451",
+      "title": "Attempted Arson",
+      "keywords": [
+        "accelerant",
+        "arson",
+        "attempted",
+        "burning",
+        "fire",
+        "structure fire",
+        "vehicle fire"
+      ],
+      "source_code": "664451"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/459",
+      "citation": "PC 664/459",
+      "title": "Attempted Burglary",
+      "keywords": [
+        "attempted",
+        "break in",
+        "building entry",
+        "burglary",
+        "commercial burglary",
+        "forced entry",
+        "residential burglary",
+        "stolen property",
+        "surveillance"
+      ],
+      "source_code": "664459"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/484",
+      "citation": "PC 664/484",
+      "title": "Attempted Theft / Credit Card Offense",
+      "keywords": [
+        "attempted",
+        "card",
+        "credit",
+        "larceny",
+        "loss",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ],
+      "source_code": "664484"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/487",
+      "citation": "PC 664/487",
+      "title": "Attempted Grand Theft",
+      "keywords": [
+        "attempted",
+        "grand",
+        "high value theft",
+        "larceny",
+        "loss",
+        "loss over 950",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "vehicle theft"
+      ],
+      "source_code": "664487"
+    },
+    {
+      "code_type": "PC",
+      "code": "664/488",
+      "citation": "PC 664/488",
+      "title": "Attempted Petty Theft",
+      "keywords": [
+        "attempted",
+        "larceny",
+        "loss",
+        "loss under 950",
+        "petty",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ],
+      "source_code": "664488"
+    },
+    {
+      "code_type": "PC",
+      "code": "666",
+      "citation": "PC 666",
+      "title": "Petty Theft With Prior",
+      "keywords": [
+        "larceny",
+        "loss",
+        "loss under 950",
+        "petty",
+        "prior",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "666.1",
+      "citation": "PC 666.1",
+      "title": "Petty Theft With Two Priors",
+      "keywords": [
+        "larceny",
+        "loss",
+        "loss under 950",
+        "petty",
+        "priors",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "two"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "1026.4",
+      "citation": "PC 1026.4",
+      "title": "Escape From State Hospital / Mental Health Custody",
+      "keywords": [
+        "custody",
+        "escape",
+        "from",
+        "health",
+        "hospital",
+        "mental",
+        "state"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "1203.2",
+      "citation": "PC 1203.2",
+      "title": "Probation Violation",
+      "keywords": [
+        "probation"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "1490",
+      "citation": "PC 1490",
+      "title": "Assault Under Color of Authority",
+      "keywords": [
+        "adw",
+        "assault",
+        "authority",
+        "color",
+        "force",
+        "injury",
+        "threat",
+        "under",
+        "violence",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "3056",
+      "citation": "PC 3056",
+      "title": "Parole Violation",
+      "keywords": [
+        "parole"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "3455",
+      "citation": "PC 3455",
+      "title": "Postrelease Community Supervision Violation",
+      "keywords": [
+        "community",
+        "postrelease",
+        "supervision"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "4024.2",
+      "citation": "PC 4024.2",
+      "title": "Work Release Failure to Return",
+      "keywords": [
+        "failure",
+        "release",
+        "return",
+        "work"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "4532",
+      "citation": "PC 4532",
+      "title": "Escape",
+      "keywords": [
+        "escape"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "4532(b)(1)",
+      "citation": "PC 4532(b)(1)",
+      "title": "Escape / Electronic Monitoring Violation",
+      "keywords": [
+        "electronic",
+        "escape",
+        "monitoring"
+      ],
+      "source_code": "4532B1"
+    },
+    {
+      "code_type": "PC",
+      "code": "4573",
+      "citation": "PC 4573",
+      "title": "Narcotics or Alcohol in Jail / Prison",
+      "keywords": [
+        "alcohol",
+        "jail",
+        "narcotics",
+        "prison"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "4573.5",
+      "citation": "PC 4573.5",
+      "title": "Drugs in Jail / Prison",
+      "keywords": [
+        "drugs",
+        "jail",
+        "prison"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "4573.6",
+      "citation": "PC 4573.6",
+      "title": "Possession of Controlled Substance in Jail / Prison",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "jail",
+        "methamphetamine",
+        "narcotics",
+        "possession",
+        "prescription",
+        "prison",
+        "substance"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "4574",
+      "citation": "PC 4574",
+      "title": "Weapon in Jail / Prison",
+      "keywords": [
+        "assault weapon",
+        "deadly weapon",
+        "firearm",
+        "gun",
+        "jail",
+        "knife",
+        "prison",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "4600",
+      "citation": "PC 4600",
+      "title": "Damage to Jail / Prison Property",
+      "keywords": [
+        "damage",
+        "jail",
+        "prison",
+        "property"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "6389",
+      "citation": "PC 6389",
+      "title": "Firearm Surrender Order",
+      "keywords": [
+        "ammunition",
+        "armed",
+        "firearm",
+        "gun",
+        "order",
+        "shooting",
+        "surrender",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "12022",
+      "citation": "PC 12022",
+      "title": "Firearm Enhancement",
+      "keywords": [
+        "ammunition",
+        "armed",
+        "enhancement",
+        "firearm",
+        "gun",
+        "shooting",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "12022.6",
+      "citation": "PC 12022.6",
+      "title": "Excessive Taking Enhancement",
+      "keywords": [
+        "enhancement",
+        "excessive",
+        "taking"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "12022.7",
+      "citation": "PC 12022.7",
+      "title": "Great Bodily Injury Enhancement",
+      "keywords": [
+        "bodily",
+        "enhancement",
+        "great",
+        "injury"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "12022.65",
+      "citation": "PC 12022.65",
+      "title": "Acting in Concert Enhancement",
+      "keywords": [
+        "acting",
+        "concert",
+        "enhancement"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "12022(c)",
+      "citation": "PC 12022(c)",
+      "title": "Armed During Drug Trafficking Enhancement",
+      "keywords": [
+        "armed",
+        "drug",
+        "during",
+        "enhancement",
+        "trafficking"
+      ],
+      "source_value": "12022C"
+    },
+    {
+      "code_type": "PC",
+      "code": "12280",
+      "citation": "PC 12280",
+      "title": "Assault Weapon / SKS Buyback Legacy Offense",
+      "keywords": [
+        "adw",
+        "assault",
+        "assault weapon",
+        "buyback",
+        "deadly weapon",
+        "firearm",
+        "force",
+        "gun",
+        "injury",
+        "knife",
+        "legacy",
+        "sks",
+        "threat",
+        "violence",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "PC",
+      "code": "18715",
+      "citation": "PC 18715",
+      "title": "Possession of Explosive Device",
+      "keywords": [
+        "device",
+        "explosive",
+        "possession"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "1144",
+      "citation": "HS 1144",
+      "title": "Fatal T/C",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "fatal",
+        "narcotics"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "1144B",
+      "citation": "HS 1144B",
+      "title": "Fatal Boat TC",
+      "keywords": [
+        "boat",
+        "controlled substance",
+        "drugs",
+        "fatal",
+        "narcotics"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11350",
+      "citation": "HS 11350",
+      "title": "Possession of Narcotics",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "narcotics",
+        "possession"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11350(a)",
+      "citation": "HS 11350(a)",
+      "title": "Possession of Controlled Substance",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "methamphetamine",
+        "narcotics",
+        "possession",
+        "prescription",
+        "substance"
+      ],
+      "source_value": "11350A"
+    },
+    {
+      "code_type": "HS",
+      "code": "11351",
+      "citation": "HS 11351",
+      "title": "Possession of Controlled Substance for Sale",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "methamphetamine",
+        "narcotics",
+        "possession",
+        "prescription",
+        "sale",
+        "substance"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11351.5",
+      "citation": "HS 11351.5",
+      "title": "Possession of Cocaine Base for Sale",
+      "keywords": [
+        "base",
+        "cocaine",
+        "controlled substance",
+        "drugs",
+        "narcotics",
+        "possession",
+        "sale"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11352",
+      "citation": "HS 11352",
+      "title": "Transportation / Sale of Controlled Substance",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "methamphetamine",
+        "narcotics",
+        "prescription",
+        "sale",
+        "substance",
+        "transportation"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11353",
+      "citation": "HS 11353",
+      "title": "Sale of Controlled Substance to Minor",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "methamphetamine",
+        "minor",
+        "narcotics",
+        "prescription",
+        "sale",
+        "substance"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11353.5",
+      "citation": "HS 11353.5",
+      "title": "Sale to Minor Under 14",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "minor",
+        "narcotics",
+        "sale",
+        "under"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11353.7",
+      "citation": "HS 11353.7",
+      "title": "Sale to Vulnerable Child",
+      "keywords": [
+        "child",
+        "child abuse",
+        "child endangerment",
+        "controlled substance",
+        "custody",
+        "drugs",
+        "juvenile",
+        "minor",
+        "narcotics",
+        "sale",
+        "vulnerable"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11357",
+      "citation": "HS 11357",
+      "title": "Possession of Cannabis",
+      "keywords": [
+        "cannabis",
+        "concentrated cannabis",
+        "controlled substance",
+        "cultivation",
+        "drugs",
+        "marijuana",
+        "narcotics",
+        "possession",
+        "sale",
+        "weed"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11357(a)",
+      "citation": "HS 11357(a)",
+      "title": "Possession of Concentrated Cannabis",
+      "keywords": [
+        "cannabis",
+        "concentrated",
+        "concentrated cannabis",
+        "controlled substance",
+        "cultivation",
+        "drugs",
+        "marijuana",
+        "narcotics",
+        "possession",
+        "sale",
+        "weed"
+      ],
+      "source_code": "11357A"
+    },
+    {
+      "code_type": "HS",
+      "code": "11357(b)",
+      "citation": "HS 11357(b)",
+      "title": "Possession of Cannabis by Person Under 21",
+      "keywords": [
+        "cannabis",
+        "concentrated cannabis",
+        "controlled substance",
+        "cultivation",
+        "drugs",
+        "marijuana",
+        "narcotics",
+        "possession",
+        "sale",
+        "under",
+        "weed"
+      ],
+      "source_code": "11357B"
+    },
+    {
+      "code_type": "HS",
+      "code": "11357(c)",
+      "citation": "HS 11357(c)",
+      "title": "Possession of Cannabis on School Grounds",
+      "keywords": [
+        "cannabis",
+        "concentrated cannabis",
+        "controlled substance",
+        "cultivation",
+        "drugs",
+        "grounds",
+        "marijuana",
+        "narcotics",
+        "possession",
+        "sale",
+        "school",
+        "weed"
+      ],
+      "source_code": "11357C"
+    },
+    {
+      "code_type": "HS",
+      "code": "11357(e)",
+      "citation": "HS 11357(e)",
+      "title": "Possession of Cannabis by Minor",
+      "keywords": [
+        "cannabis",
+        "concentrated cannabis",
+        "controlled substance",
+        "cultivation",
+        "drugs",
+        "marijuana",
+        "minor",
+        "narcotics",
+        "possession",
+        "sale",
+        "weed"
+      ],
+      "source_code": "11357E"
+    },
+    {
+      "code_type": "HS",
+      "code": "11358",
+      "citation": "HS 11358",
+      "title": "Cultivation of Cannabis",
+      "keywords": [
+        "cannabis",
+        "concentrated cannabis",
+        "controlled substance",
+        "cultivation",
+        "drugs",
+        "marijuana",
+        "narcotics",
+        "sale",
+        "weed"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11359",
+      "citation": "HS 11359",
+      "title": "Possession of Cannabis for Sale",
+      "keywords": [
+        "cannabis",
+        "concentrated cannabis",
+        "controlled substance",
+        "cultivation",
+        "drugs",
+        "marijuana",
+        "narcotics",
+        "possession",
+        "sale",
+        "weed"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11360",
+      "citation": "HS 11360",
+      "title": "Transportation / Sale of Cannabis",
+      "keywords": [
+        "cannabis",
+        "concentrated cannabis",
+        "controlled substance",
+        "cultivation",
+        "drugs",
+        "marijuana",
+        "narcotics",
+        "sale",
+        "transportation",
+        "weed"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11364",
+      "citation": "HS 11364",
+      "title": "Drug Paraphernalia",
+      "keywords": [
+        "controlled substance",
+        "drug",
+        "drugs",
+        "narcotics",
+        "paraphernalia"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11368",
+      "citation": "HS 11368",
+      "title": "Forged Prescription",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "forged",
+        "narcotics",
+        "prescription"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11369",
+      "citation": "HS 11369",
+      "title": "Alien Drug Arrest Notification",
+      "keywords": [
+        "alien",
+        "arrest",
+        "controlled substance",
+        "drug",
+        "drugs",
+        "narcotics",
+        "notification"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11370.1",
+      "citation": "HS 11370.1",
+      "title": "Possession of Controlled Substance With Firearm",
+      "keywords": [
+        "ammunition",
+        "armed",
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "firearm",
+        "gun",
+        "heroin",
+        "methamphetamine",
+        "narcotics",
+        "possession",
+        "prescription",
+        "shooting",
+        "substance",
+        "weapon"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11370.4",
+      "citation": "HS 11370.4",
+      "title": "Controlled Substance Weight Enhancement / Fentanyl",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "enhancement",
+        "fentanyl",
+        "heroin",
+        "methamphetamine",
+        "narcotics",
+        "prescription",
+        "substance",
+        "weight"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11377",
+      "citation": "HS 11377",
+      "title": "Possession of Controlled Substance",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "methamphetamine",
+        "narcotics",
+        "possession",
+        "prescription",
+        "substance"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11377(a)",
+      "citation": "HS 11377(a)",
+      "title": "Possession of Controlled Substance",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "methamphetamine",
+        "narcotics",
+        "possession",
+        "prescription",
+        "substance"
+      ],
+      "source_code": "11377A"
+    },
+    {
+      "code_type": "HS",
+      "code": "11377(b)",
+      "citation": "HS 11377(b)",
+      "title": "Possession of Controlled Substance",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "methamphetamine",
+        "narcotics",
+        "possession",
+        "prescription",
+        "substance"
+      ],
+      "source_code": "11377B"
+    },
+    {
+      "code_type": "HS",
+      "code": "11378",
+      "citation": "HS 11378",
+      "title": "Possession of Controlled Substance for Sale",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "methamphetamine",
+        "narcotics",
+        "possession",
+        "prescription",
+        "sale",
+        "substance"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11378.5",
+      "citation": "HS 11378.5",
+      "title": "Possession of PCP for Sale",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "narcotics",
+        "pcp",
+        "possession",
+        "sale"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11379",
+      "citation": "HS 11379",
+      "title": "Transportation / Sale of Methamphetamine",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "methamphetamine",
+        "narcotics",
+        "sale",
+        "transportation"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11380",
+      "citation": "HS 11380",
+      "title": "Furnishing Controlled Substance to Minor",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "furnishing",
+        "heroin",
+        "methamphetamine",
+        "minor",
+        "narcotics",
+        "prescription",
+        "substance"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11383(a)",
+      "citation": "HS 11383(a)",
+      "title": "Possession of Methamphetamine Precursors",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "methamphetamine",
+        "narcotics",
+        "possession",
+        "precursors"
+      ],
+      "source_code": "11383A"
+    },
+    {
+      "code_type": "HS",
+      "code": "11383(b)",
+      "citation": "HS 11383(b)",
+      "title": "Possession of PCP Precursors",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "narcotics",
+        "pcp",
+        "possession",
+        "precursors"
+      ],
+      "source_code": "11383B"
+    },
+    {
+      "code_type": "HS",
+      "code": "11383(c)",
+      "citation": "HS 11383(c)",
+      "title": "Possession of Ephedrine / Pseudoephedrine for Manufacturing",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "ephedrine",
+        "manufacturing",
+        "narcotics",
+        "possession",
+        "pseudoephedrine"
+      ],
+      "source_code": "11383C"
+    },
+    {
+      "code_type": "HS",
+      "code": "11395",
+      "citation": "HS 11395",
+      "title": "Possession With Prior Drug Convictions",
+      "keywords": [
+        "controlled substance",
+        "convictions",
+        "drug",
+        "drugs",
+        "narcotics",
+        "possession",
+        "prior"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11532",
+      "citation": "HS 11532",
+      "title": "Loitering for Drug Activity",
+      "keywords": [
+        "activity",
+        "controlled substance",
+        "drug",
+        "drugs",
+        "loitering",
+        "narcotics"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11550",
+      "citation": "HS 11550",
+      "title": "Under Influence of Controlled Substance",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "influence",
+        "methamphetamine",
+        "narcotics",
+        "prescription",
+        "substance",
+        "under"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "11590",
+      "citation": "HS 11590",
+      "title": "Controlled Substance Offender Registration",
+      "keywords": [
+        "cocaine",
+        "controlled",
+        "controlled substance",
+        "drugs",
+        "fentanyl",
+        "heroin",
+        "methamphetamine",
+        "narcotics",
+        "offender",
+        "prescription",
+        "registration",
+        "substance"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "12671",
+      "citation": "HS 12671",
+      "title": "Unregistered Fireworks",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "fireworks",
+        "narcotics",
+        "unregistered"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "12677",
+      "citation": "HS 12677",
+      "title": "Dangerous Fireworks",
+      "keywords": [
+        "controlled substance",
+        "dangerous",
+        "drugs",
+        "fireworks",
+        "narcotics"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "113668",
+      "citation": "HS 113668",
+      "title": "False Compartment",
+      "keywords": [
+        "compartment",
+        "controlled substance",
+        "drugs",
+        "false",
+        "narcotics"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "113795",
+      "citation": "HS 113795",
+      "title": "Sale of PCP",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "narcotics",
+        "pcp",
+        "sale"
+      ]
+    },
+    {
+      "code_type": "HS",
+      "code": "113796",
+      "citation": "HS 113796",
+      "title": "PCP / Methamphetamine Lab",
+      "keywords": [
+        "controlled substance",
+        "drugs",
+        "lab",
+        "methamphetamine",
+        "narcotics",
+        "pcp"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "2800",
+      "citation": "VC 2800",
+      "title": "Failure to Obey Peace Officer",
+      "keywords": [
+        "failure",
+        "obey",
+        "officer",
+        "peace",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "2800.1",
+      "citation": "VC 2800.1",
+      "title": "Evading Peace Officer",
+      "keywords": [
+        "evading",
+        "officer",
+        "peace",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "2800.2",
+      "citation": "VC 2800.2",
+      "title": "Felony Reckless Evading",
+      "keywords": [
+        "evading",
+        "felony",
+        "reckless",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "4462.5",
+      "citation": "VC 4462.5",
+      "title": "Improper Plate / Registration Tab",
+      "keywords": [
+        "improper",
+        "plate",
+        "registration",
+        "tab",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "4463",
+      "citation": "VC 4463",
+      "title": "Fraudulent Vehicle Registration",
+      "keywords": [
+        "access card",
+        "check",
+        "false pretenses",
+        "financial crime",
+        "forgery",
+        "fraudulent",
+        "registration",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "10751",
+      "citation": "VC 10751",
+      "title": "Altered / Removed Vehicle Identification Number",
+      "keywords": [
+        "altered",
+        "identification",
+        "number",
+        "removed",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "10752",
+      "citation": "VC 10752",
+      "title": "Fraudulent Use of Vehicle Identification Number",
+      "keywords": [
+        "access card",
+        "check",
+        "false pretenses",
+        "financial crime",
+        "forgery",
+        "fraudulent",
+        "identification",
+        "number",
+        "traffic",
+        "use",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "10851",
+      "citation": "VC 10851",
+      "title": "Vehicle Theft / Unlawful Taking",
+      "keywords": [
+        "larceny",
+        "loss",
+        "property crime",
+        "shoplifting",
+        "stolen property",
+        "taking",
+        "theft",
+        "traffic",
+        "unlawful",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "10852",
+      "citation": "VC 10852",
+      "title": "Vehicle Tampering",
+      "keywords": [
+        "tampering",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "10853",
+      "citation": "VC 10853",
+      "title": "Malicious Mischief to Vehicle",
+      "keywords": [
+        "malicious",
+        "mischief",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "10855",
+      "citation": "VC 10855",
+      "title": "Embezzled Vehicle",
+      "keywords": [
+        "embezzled",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "12500(a)",
+      "citation": "VC 12500(a)",
+      "title": "Driving Without Valid License",
+      "keywords": [
+        "driving",
+        "license",
+        "traffic",
+        "valid",
+        "vehicle",
+        "without"
+      ],
+      "source_code": "12500A"
+    },
+    {
+      "code_type": "VC",
+      "code": "14601",
+      "citation": "VC 14601",
+      "title": "Driving on Suspended / Revoked License",
+      "keywords": [
+        "driving",
+        "license",
+        "revoked",
+        "suspended",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "20001",
+      "citation": "VC 20001",
+      "title": "Felony Hit and Run With Injury",
+      "keywords": [
+        "felony",
+        "flee scene",
+        "hit",
+        "injury",
+        "property damage",
+        "run",
+        "traffic",
+        "traffic collision",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "20002",
+      "citation": "VC 20002",
+      "title": "Hit and Run Property Damage",
+      "keywords": [
+        "damage",
+        "flee scene",
+        "hit",
+        "injury",
+        "property",
+        "property damage",
+        "run",
+        "traffic",
+        "traffic collision",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "21200",
+      "citation": "VC 21200",
+      "title": "Bicycle Rider Subject to Vehicle Code / DUI Bike",
+      "keywords": [
+        "alcohol",
+        "bac",
+        "bicycle",
+        "bike",
+        "code",
+        "drugs",
+        "drunk driving",
+        "dui",
+        "impaired driving",
+        "rider",
+        "subject",
+        "traffic",
+        "traffic collision",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "22651",
+      "citation": "VC 22651",
+      "title": "Tow Authority",
+      "keywords": [
+        "authority",
+        "tow",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "22655",
+      "citation": "VC 22655",
+      "title": "Impound / Removal of Vehicle",
+      "keywords": [
+        "impound",
+        "removal",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "22658(a)",
+      "citation": "VC 22658(a)",
+      "title": "Private Property Tow",
+      "keywords": [
+        "private",
+        "property",
+        "tow",
+        "traffic",
+        "vehicle"
+      ],
+      "source_code": "22658A"
+    },
+    {
+      "code_type": "VC",
+      "code": "22669",
+      "citation": "VC 22669",
+      "title": "Abandoned Vehicle Tow Authority",
+      "keywords": [
+        "abandoned",
+        "authority",
+        "tow",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "23103",
+      "citation": "VC 23103",
+      "title": "Reckless Driving",
+      "keywords": [
+        "driving",
+        "reckless",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "23109",
+      "citation": "VC 23109",
+      "title": "Speed Contest",
+      "keywords": [
+        "contest",
+        "speed",
+        "traffic",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "23110(a)",
+      "citation": "VC 23110(a)",
+      "title": "Throwing Substance at Vehicle",
+      "keywords": [
+        "substance",
+        "throwing",
+        "traffic",
+        "vehicle"
+      ],
+      "source_code": "23110A"
+    },
+    {
+      "code_type": "VC",
+      "code": "23152",
+      "citation": "VC 23152",
+      "title": "DUI Alcohol / Drugs",
+      "keywords": [
+        "alcohol",
+        "bac",
+        "drugs",
+        "drunk driving",
+        "dui",
+        "impaired driving",
+        "traffic",
+        "traffic collision",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "23152(b)",
+      "citation": "VC 23152(b)",
+      "title": "DUI 0.08% BAC or Greater",
+      "keywords": [
+        "alcohol",
+        "bac",
+        "drugs",
+        "drunk driving",
+        "dui",
+        "greater",
+        "impaired driving",
+        "traffic",
+        "traffic collision",
+        "vehicle"
+      ],
+      "source_code": "23152B"
+    },
+    {
+      "code_type": "VC",
+      "code": "23152(c)",
+      "citation": "VC 23152(c)",
+      "title": "DUI by Person Addicted to Drug",
+      "keywords": [
+        "addicted",
+        "alcohol",
+        "bac",
+        "drug",
+        "drugs",
+        "drunk driving",
+        "dui",
+        "impaired driving",
+        "traffic",
+        "traffic collision",
+        "vehicle"
+      ],
+      "source_code": "23152C"
+    },
+    {
+      "code_type": "VC",
+      "code": "23153",
+      "citation": "VC 23153",
+      "title": "DUI Causing Injury",
+      "keywords": [
+        "alcohol",
+        "bac",
+        "causing",
+        "drugs",
+        "drunk driving",
+        "dui",
+        "impaired driving",
+        "injury",
+        "traffic",
+        "traffic collision",
+        "vehicle"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "23156",
+      "citation": "VC 23156",
+      "title": "Vehicular Manslaughter / Negligent Driver",
+      "keywords": [
+        "driver",
+        "manslaughter",
+        "negligent",
+        "traffic",
+        "vehicle",
+        "vehicular"
+      ]
+    },
+    {
+      "code_type": "VC",
+      "code": "23222(a)",
+      "citation": "VC 23222(a)",
+      "title": "Open Container in Vehicle",
+      "keywords": [
+        "container",
+        "open",
+        "traffic",
+        "vehicle"
+      ],
+      "source_code": "23222A"
+    },
+    {
+      "code_type": "VC",
+      "code": "23222(b)",
+      "citation": "VC 23222(b)",
+      "title": "Possession of Cannabis in Vehicle",
+      "keywords": [
+        "cannabis",
+        "concentrated cannabis",
+        "cultivation",
+        "marijuana",
+        "possession",
+        "sale",
+        "traffic",
+        "vehicle",
+        "weed"
+      ],
+      "source_code": "23222B"
+    },
+    {
+      "code_type": "VC",
+      "code": "23550(a)",
+      "citation": "VC 23550(a)",
+      "title": "DUI With Prior Convictions",
+      "keywords": [
+        "alcohol",
+        "bac",
+        "convictions",
+        "drugs",
+        "drunk driving",
+        "dui",
+        "impaired driving",
+        "prior",
+        "traffic",
+        "traffic collision",
+        "vehicle"
+      ],
+      "source_code": "23550A"
+    },
+    {
+      "code_type": "BPC",
+      "code": "4149",
+      "citation": "BPC 4149",
+      "title": "Non-Licensed Hypodermic Needle / Syringe",
+      "keywords": [
+        "hypodermic",
+        "licensed",
+        "needle",
+        "non",
+        "syringe"
+      ]
+    },
+    {
+      "code_type": "BPC",
+      "code": "4324",
+      "citation": "BPC 4324",
+      "title": "Forged Prescription",
+      "keywords": [
+        "forged",
+        "prescription"
+      ]
+    },
+    {
+      "code_type": "BPC",
+      "code": "25658(a)",
+      "citation": "BPC 25658(a)",
+      "title": "Alcohol Furnished or Sold to Minor",
+      "keywords": [
+        "alcohol",
+        "furnished",
+        "minor",
+        "sold"
+      ],
+      "source_code": "25658A"
+    },
+    {
+      "code_type": "BPC",
+      "code": "25660.5",
+      "citation": "BPC 25660.5",
+      "title": "Minor False Identification for Alcohol",
+      "keywords": [
+        "alcohol",
+        "false",
+        "identification",
+        "minor"
+      ]
+    },
+    {
+      "code_type": "BPC",
+      "code": "25662",
+      "citation": "BPC 25662",
+      "title": "Minor Possession of Alcohol",
+      "keywords": [
+        "alcohol",
+        "minor",
+        "possession"
+      ]
+    },
+    {
+      "code_type": "BPC",
+      "code": "25663",
+      "citation": "BPC 25663",
+      "title": "Minor Employed in Alcohol Sales",
+      "keywords": [
+        "alcohol",
+        "employed",
+        "minor",
+        "sales"
+      ]
+    },
+    {
+      "code_type": "WIC",
+      "code": "300",
+      "citation": "WIC 300",
+      "title": "Dependent Child / Lack of Parental Control",
+      "keywords": [
+        "child",
+        "child abuse",
+        "child endangerment",
+        "control",
+        "custody",
+        "dependent",
+        "juvenile",
+        "lack",
+        "minor",
+        "parental"
+      ]
+    },
+    {
+      "code_type": "WIC",
+      "code": "300(a)",
+      "citation": "WIC 300(a)",
+      "title": "Dependent Child - Serious Physical Harm",
+      "keywords": [
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "dependent",
+        "harm",
+        "juvenile",
+        "minor",
+        "physical",
+        "serious"
+      ],
+      "source_code": "300A"
+    },
+    {
+      "code_type": "WIC",
+      "code": "300(b)",
+      "citation": "WIC 300(b)",
+      "title": "Dependent Child - Failure to Protect / Neglect",
+      "keywords": [
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "dependent",
+        "failure",
+        "juvenile",
+        "minor",
+        "neglect",
+        "protect"
+      ],
+      "source_code": "300B"
+    },
+    {
+      "code_type": "WIC",
+      "code": "300(d)",
+      "citation": "WIC 300(d)",
+      "title": "Dependent Child - Sexual Abuse",
+      "keywords": [
+        "abuse",
+        "child",
+        "child abuse",
+        "child endangerment",
+        "child sexual abuse material",
+        "csam",
+        "custody",
+        "dependent",
+        "juvenile",
+        "minor",
+        "registrant",
+        "sexual",
+        "sexual assault"
+      ],
+      "source_code": "300D"
+    },
+    {
+      "code_type": "WIC",
+      "code": "300(g)",
+      "citation": "WIC 300(g)",
+      "title": "Dependent Child - No Provision for Support",
+      "keywords": [
+        "child",
+        "child abuse",
+        "child endangerment",
+        "custody",
+        "dependent",
+        "juvenile",
+        "minor",
+        "provision",
+        "support"
+      ],
+      "source_code": "300G"
+    },
+    {
+      "code_type": "WIC",
+      "code": "601",
+      "citation": "WIC 601",
+      "title": "Incorrigible Juvenile / Truancy",
+      "keywords": [
+        "incorrigible",
+        "juvenile",
+        "truancy"
+      ]
+    },
+    {
+      "code_type": "WIC",
+      "code": "5150",
+      "citation": "WIC 5150",
+      "title": "Mental Health Detention / Evaluation",
+      "keywords": [
+        "detention",
+        "evaluation",
+        "health",
+        "mental"
+      ],
+      "source_code": "5150SB"
+    },
+    {
+      "code_type": "WIC",
+      "code": "5345",
+      "citation": "WIC 5345",
+      "title": "Laura’s Law / Assisted Outpatient Treatment",
+      "keywords": [
+        "assisted",
+        "laura",
+        "law",
+        "outpatient",
+        "treatment"
+      ]
+    }
+  ],
+  "removed_cad_or_non_statutory_entries": [
+    {
+      "code_type": "PC",
+      "code": "211A",
+      "description": "ROBBERY ARMED",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "211SA",
+      "description": "ROBBRY STRONG ARM",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415A",
+      "description": "AUTO DISTURB",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415BG",
+      "description": "DISTURB BF/GF",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415CIV",
+      "description": "DISTURB CIVIL",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415D",
+      "description": "DOMESTIC DISTURB",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415DOG",
+      "description": "DISTURBANCE DOG",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415F",
+      "description": "FIGHT",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415HW",
+      "description": "DISTURB HUS/WIFE",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415J",
+      "description": "DISTURBNCE JUVIE",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415LT",
+      "description": "LANDLORD/TENANT",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415M",
+      "description": "DISTURBNCE MUSIC",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415MC",
+      "description": "DISTURBANCE M/C",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415N",
+      "description": "NEIGHBORS",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415NO",
+      "description": "DISTURBNCE NOISE",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415P",
+      "description": "DISTURBNCE PARTY",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415S",
+      "description": "SUBJECT DISTURB",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "415UNK",
+      "description": "DISTURBNCE UNK",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "459A",
+      "description": "AUDIBLE ALARM",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "459C",
+      "description": "COMMERCIAL BURG",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "459P",
+      "description": "BURGLARY PLANE",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "459V",
+      "description": "VEHICLE BURGLARY",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "664GTA",
+      "description": "ATT GTA",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "905",
+      "description": "ANIMAL PROBLEM",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "905A",
+      "description": "ABANDONED/ABUSE ANIMAL",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "905B",
+      "description": "DOG BITE",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "905VI",
+      "description": "VICIOUS/INJURED ANIMAL",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "907",
+      "description": "GANG MEMBERS",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "PC",
+      "code": "1170",
+      "description": "Work Release Arrest",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "HS",
+      "code": "HS",
+      "description": "H&S ACTIVITY",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "HS",
+      "code": "NARC",
+      "description": "NARCOTIC ACTIVTY",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "VC",
+      "code": "1124",
+      "description": "ABANDON VEHICLE",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "VC",
+      "code": "1179",
+      "description": "TC -MEDAID ENRT",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "VC",
+      "code": "1180",
+      "description": "MAJOR INJURY TC",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "VC",
+      "code": "1180B",
+      "description": "MAJOR INJ BOAT",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "VC",
+      "code": "1181",
+      "description": "MINOR INJ TC",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "VC",
+      "code": "1181B",
+      "description": "MINOR INJ BT TC",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "VC",
+      "code": "1182",
+      "description": "NON INJ TC",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "VC",
+      "code": "1182B",
+      "description": "NON INJ BOAT TC",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    },
+    {
+      "code_type": "VC",
+      "code": "1183",
+      "description": "UNK INJ TC",
+      "reason": "CAD/report classification or non-statutory shorthand"
+    }
+  ]
+}
