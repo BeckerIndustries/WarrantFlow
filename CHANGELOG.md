@@ -8,6 +8,28 @@ The latest .exe is always at the top of the
 
 ## [Unreleased]
 
+## [1.0.2] — 2026-05-30
+
+### Changed
+- **Warrant Number is now on the warrant return form only.** It was
+  showing up on the new search warrant editor too, but the
+  court-assigned number isn't issued until the magistrate signs. The
+  Document Details card now has Case Number + Title on a new search
+  warrant, and Case Number + Warrant Number + Title on a return.
+- **Logging is per-day with 90-day retention.** Logs roll into
+  `data\logs\warrantflow-YYYY-MM-DD.log` instead of one growing file.
+  Files older than 90 days are deleted on startup. User actions
+  (unlock, generate, save, backup, restore, password change, vault
+  wipe, manual log out, inactivity timeout) are now recorded with an
+  `ACTION:` prefix for fast grep during incident review.
+- **Production folder layout simplified.** The `README.txt` that used
+  to sit next to the .exe is gone — the in-app About / View Disclaimer
+  cover what officers need, and the rest lives on GitHub. In its place,
+  a marker file named `! DO NOT TOUCH.txt` (leading "!" sorts it to
+  the top in Explorer) drops into both `templates\` and `data\` on
+  first launch with a one-paragraph warning to leave the contents
+  alone.
+
 ## [1.0.1] — 2026-05-30
 
 ### Changed
@@ -72,6 +94,7 @@ First public release.
 - As-is disclaimer accepted on first launch and available any time
   under About → View Disclaimer.
 
-[Unreleased]: https://github.com/BeckerIndustries/WarrantFlow/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/BeckerIndustries/WarrantFlow/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.2
 [1.0.1]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.1
 [1.0.0]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.0

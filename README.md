@@ -25,14 +25,13 @@ modern Windows 10/11 machine).
    and start drafting.
 
 On first launch the app creates everything it needs next to itself
-(`templates\`, `data\`, etc.) and extracts starter search-warrant and
+(`templates\`, `data\`) and extracts starter search-warrant and
 warrant-return Word templates into `templates\`. Open either file in
 Word any time to customize the wording or layout for your agency —
 your edits are preserved on every future launch.
 
-A full daily-use guide, backup instructions, and troubleshooting are
-included in `README.txt`, which the app drops next to itself the first
-time it runs.
+In-app **About** and **View Disclaimer** dialogs cover the day-to-day
+guidance you'd want. The full docs and updates live here on GitHub.
 
 ## Features
 
