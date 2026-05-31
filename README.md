@@ -7,10 +7,10 @@ Run it from a USB stick or any folder on the patrol-car tablet — no install,
 no admin rights, no registry writes. Fill in a warrant, generate a Word or
 PDF document, and have it ready for the magistrate.
 
-WarrantFlow is an independent project. It is not affiliated with, approved by,
-or endorsed by any law enforcement agency, court, or government body. Before
-installing or running it on any computer you do not personally own, get
-explicit permission from the owner or your agency's IT department.
+> WarrantFlow is an independent project. It is not affiliated with, approved by,
+> or endorsed by any law enforcement agency, court, or government body. Before
+> installing or running it on any computer you do not personally own, get
+> explicit permission from the owner or your agency's IT department.
 
 ---
 
