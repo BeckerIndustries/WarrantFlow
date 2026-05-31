@@ -35,6 +35,10 @@ guidance you'd want. The full docs and updates live here on GitHub.
 
 ### "Windows protected your PC" warning on first launch?
 
+<p align="center">
+  <img src="docs/images/WindowsDefenderSmartScreen.png" alt="WindowsDefenderSmartScreen" width="700">
+</p>
+
 The first time you double-click `WarrantFlow.exe`, Windows may show a
 blue **Microsoft Defender SmartScreen** dialog that says *"Windows
 protected your PC — Microsoft Defender SmartScreen prevented an
