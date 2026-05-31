@@ -5,9 +5,12 @@
 WarrantFlow is a single-file Windows app for patrol officers in the field.
 Run it from a USB stick or any folder on the patrol-car tablet — no install,
 no admin rights, no registry writes. Fill in a warrant, generate a Word or
-PDF document, and have it ready for the magistrate. This software is not
-approved by or endorcsed by any government agency. Ask permission before
-deploying it on any computer that is not yours.
+PDF document, and have it ready for the magistrate.
+
+WarrantFlow is an independent project. It is not affiliated with, approved by,
+or endorsed by any law enforcement agency, court, or government body. Before
+installing or running it on any computer you do not personally own, get
+explicit permission from the owner or your agency's IT department.
 
 ---
 
