@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/github.png" alt="Logo" width="700">
+</p>
+
 # WarrantFlow
 
 **A free, portable, encrypted California search warrant generator.**
