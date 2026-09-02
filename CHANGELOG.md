@@ -28,6 +28,8 @@ The latest .exe is always at the top of the
 
 ## [1.0.4] — 2026-09-02
 
+_Not published as a separate download — these fixes shipped in 1.0.5._
+
 ### Fixed
 - **Declaration date on the warrant return printed in the machine's
   locale format** (`5/30/2026` on US machines, `30/05/2026` elsewhere).
@@ -144,7 +146,7 @@ First public release.
 
 [Unreleased]: https://github.com/BeckerIndustries/WarrantFlow/compare/v1.0.5...HEAD
 [1.0.5]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.5
-[1.0.4]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.4
+[1.0.4]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.5
 [1.0.3]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.3
 [1.0.2]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.2
 [1.0.1]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.1
