@@ -1,8 +1,8 @@
 {
   "version": 1,
   "updated": "2026-09-02",
-  "latest_app_version": "1.0.4",
-  "update_message": "v1.0.3 is out — internal cleanup; catalog files relocated on the repo. No user-facing changes.",
+  "latest_app_version": "1.0.5",
+  "update_message": "v1.0.5 is out — live password checklist, First/Last Name fields on the profile, declaration date fix on the return, and Restore From Backup now keeps a safety copy of your previous vault.",
   "download_url": "https://github.com/BeckerIndustries/WarrantFlow/releases/latest",
   "supporters": [
     "Be the first — buy me a coffee!"

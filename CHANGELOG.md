@@ -8,6 +8,45 @@ The latest .exe is always at the top of the
 
 ## [Unreleased]
 
+## [1.0.5] — 2026-09-02
+
+### Added
+- **Live password checklist.** Setup and Settings → Change Password now
+  show each strength rule with a red ✗ / green ✓ that updates as you
+  type, plus a "Passwords match" indicator under the confirm box. The
+  Create Vault / Change Password button stays disabled until everything
+  is green, so there's no more guessing what's wrong after clicking.
+- **First Name and Last Name fields** on the profile replace the single
+  Full Name box, so every generated document prints the affiant as
+  "First Last" no matter how it was typed. Names are tidied when you
+  leave the box ("john smith" → "John Smith", "mccorry" → "McCorry");
+  anything typed with deliberate capitals ("McCorry", "O'Brien",
+  "van der Berg") is kept exactly. Existing profiles migrate
+  automatically ("Smith, John" and "John Smith" both split correctly —
+  check the Profile page once after updating). New template tokens
+  `{{AFFIANT_FIRST_NAME}}` and `{{AFFIANT_LAST_NAME}}`.
+
+## [1.0.4] — 2026-09-02
+
+### Fixed
+- **Declaration date on the warrant return printed in the machine's
+  locale format** (`5/30/2026` on US machines, `30/05/2026` elsewhere).
+  It now prints `05-30-2026` like every other date. New tokens
+  `{{DECLARATION_DATE}}` (full date) and `{{DECLARATION_DAY_OF_MONTH}}`
+  (just the day) were added, and the bundled `warrant_return.docx` now
+  uses `{{DECLARATION_DATE}}`. `{{DECLARATION_DAY}}` keeps working as
+  the full date, so a customized template from an earlier version prints
+  the same thing. Existing installs keep their on-disk template as
+  always; delete `templates\warrant_return.docx` to pick up the new copy.
+- **"Discard unsaved changes?" no longer appears after only expanding the
+  statutory-grounds list** in the warrant editor.
+- **Restore From Backup keeps the previous vault** as `data\vault.swdb.bak`
+  instead of silently overwriting it, and fully logs out before returning
+  to the Unlock screen. Wipe / Reset removes the safety copy too.
+- **Change Password now enforces the same strength rules as first-run
+  Setup** (8+ characters, 2 each of upper, lower, digit, special). It
+  previously accepted any 8-character password.
+
 ## [1.0.3] — 2026-05-30
 
 ### Changed
@@ -103,7 +142,9 @@ First public release.
 - As-is disclaimer accepted on first launch and available any time
   under About → View Disclaimer.
 
-[Unreleased]: https://github.com/BeckerIndustries/WarrantFlow/compare/v1.0.3...HEAD
+[Unreleased]: https://github.com/BeckerIndustries/WarrantFlow/compare/v1.0.5...HEAD
+[1.0.5]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.5
+[1.0.4]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.4
 [1.0.3]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.3
 [1.0.2]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.2
 [1.0.1]: https://github.com/BeckerIndustries/WarrantFlow/releases/tag/v1.0.1
